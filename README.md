@@ -1,4 +1,4 @@
-![](cover_vdream.png)<br>
+![](cover_vdream.jpg)<br>
 Emulator of an educational console from the early 2000s that brought a smile to your face, developed by Néo Foderé de Frutos under the FODSOFT™ brand.
 [Itch page](https://fodsoft.itch.io/vdream)<br>
 # Description
