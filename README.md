@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="cover_vdream.png" width="50%" style="margin-right:10px;">
+  <img src="cover_vdream.png" width="50%">
   <img src="logo_vdream.png" height="100">
 </p>
 Emulator of an educational console from the early 2000s that brought a smile to your face, developed by Néo Foderé de Frutos under the FODSOFT™ brand.
