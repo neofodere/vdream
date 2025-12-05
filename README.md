@@ -1,7 +1,4 @@
-![](cover_vdream.jpg)<br>
-Emulator of an educational console from the early 2000s that brought a smile to your face, developed by Néo Foderé de Frutos under the FODSOFT™ brand.
-[Itch page](https://fodsoft.itch.io/vdream)<br>
-# Description
+# V.Dream
 **ENGLISH:<br>**
 ![](logo_vdream_en.png)<br>
 V.Dream is an emulator developed by Néo Foderé de Frutos under the FODSOFT™ brand and written in C, C++ and C# for modern devices of a classic and educational console that used to bring a smile to your face ;) With V.Dream, you can play and relive the games from your childhood or discover them for the first time, develop your own software with instructions for the emulated hardware, among other features. It should be noted that neither FODSOFT™ nor V.Dream provide ROMs or any other means that facilitate piracy; the only thing FODSOFT™ offers is software that simulates the hardware of that era so the games can run on modern devices.<br>
