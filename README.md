@@ -14,6 +14,7 @@ V.Dream is a V.Smile emulator developed by Néo Foderé de Frutos under the FODS
 3. Open V.Dream and press the center button to select a folder, or go to `System -> Select folder`.<br> <img src="images/vdream_tuto_01.png" width="432" height="328"><br>
 4. Or go to `System -> Run cartridge` to launch a game directly.<br> <img src="images/vdream_tuto_03.png" width="432" height="328"><br>
 5. Now you can play, but some games require an official BIOS file. To import it, go to `Settings -> Paths -> BIOS`, or try to launch a game that requires a BIOS file and press `Import BIOS`.<br> <img src="images/vdream_tuto_02.png" width="432" height="328">
+6. You can switch the game menu mode between a vertical list view and a customizable cover view from `View -> Covers` and from `View -> List`.<br> <img src="images/vdream_tuto_04.png" width="432" height="328">
 
 ## Game Controls
 ```
