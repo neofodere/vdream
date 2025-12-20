@@ -25,7 +25,7 @@ V.Dream is a V.Smile emulator developed by Néo Foderé de Frutos under the FODS
 <img src="images/vdream_screenshot_04.png" width="400" height="225"><br>
 
 ## How to use the V.Dream Help Tools
-`**V.Dream Shortcut creator:** scripts/VDREAM_SHORTCUT.PS1`
+`V.Dream Shortcut creator: scripts/VDREAM_SHORTCUT.PS1`
 1. Download the file VDREAM_SHORTCUT.PS1 to any folder on your computer.
 2. Open Windows PowerShell.
 3. Go to the folder where the script is located.
