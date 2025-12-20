@@ -8,7 +8,7 @@ V.Dream is a V.Smile emulator developed by Néo Foderé de Frutos under the FODS
 [Download the portable version (x86)](https://resources.fodsoft.com/downloads/vdream_portable_x86.7z)
 
 ## Installation guide
-1. Download and install the **vdream_installer.exe** file.
+1. Download and install the **vdream_installer.exe** file.<br>
   1.1 Run it and select an installation folder, or use the default one.
 2. Or download and extract the **vdream_portable_{architecture}.7z** file and run **vdream.exe**.
 3. Open V.Dream and press the center button to select a folder, or go to `System -> Select folder`.
