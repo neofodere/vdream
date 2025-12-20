@@ -10,7 +10,7 @@ if ($es64)
     $tam_core = 1082KB
     $tam_dll = 4613KB
 } 
-else 
+else
 {
     $tam_vdream = 168KB
     $tam_core = 1031KB
@@ -61,7 +61,7 @@ if ($errores.Count -eq 0)
 {
     Write-Host "OK" -ForegroundColor Green
 } 
-else 
+else
 {
     Write-Host "KO" -ForegroundColor Red
     foreach ($e in $errores) 
