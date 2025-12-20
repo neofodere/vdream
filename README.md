@@ -15,10 +15,10 @@ V.Dream est un émulateur de la V.Smile développé par Néo Foderé de Frutos s
 
 ## Controls
 ```
-[w], [⬆️]: Move up
-[A], [⬅️]: Move left
-[S], [⬇️]: Move down
-[D], [➡️]: Move right
+[w], [↑]: ⬆️ Move up
+[A], [←]: ⬅️ Move left
+[S], [↓]: ⬇️ Move down
+[D], [→]: ➡️ Move right
 [Space]: ✔️ ENTER / OK
 [Z]: 🔴 Red
 [X]: 🟡 Yellow
