@@ -31,7 +31,7 @@ V.Dream is a V.Smile emulator developed by Néo Foderé de Frutos under the FODS
 
 ## How to use the V.Dream Help Tools
 `V.Dream Shortcut Creator: scripts/VDREAM_SHORTCUT.PS1`
-1. Download the file VDREAM_SHORTCUT.PS1 to any folder on your computer.
+1. Download the file ***VDREAM_SHORTCUT.PS1*** to any folder on your computer.
 2. Open Windows PowerShell.
 3. Go to the folder where the script is located.
 4. Run the script using this command: `powershell -ExecutionPolicy Bypass -File .\VDREAM_SHORTCUT.PS1` **(You can also pass the installation path to the script as an argument if it’s not the default one.)**
@@ -39,7 +39,7 @@ V.Dream is a V.Smile emulator developed by Néo Foderé de Frutos under the FODS
 6. **Done!** Check your Desktop for the new V.Dream shortcut.
 
 `V.Dream Integrity Checker: scripts/VDREAM_CHECKER.PS1`
-1. Download the file VDREAM_CHECKER.PS1 to any folder on your computer.
+1. Download the file ***VDREAM_CHECKER.PS1*** to any folder on your computer.
 2. Open Windows PowerShell.
 3. Go to the folder where the script is located.
 4. Run the script using this command: `powershell -ExecutionPolicy Bypass -File .\VDREAM_CHECKER.PS1` **(You can also pass the installation path to the script as an argument if it’s not the default one.)**
