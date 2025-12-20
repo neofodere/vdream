@@ -23,14 +23,14 @@ V.Dream est un émulateur de la V.Smile développé par Néo Foderé de Frutos s
 [V]: 🟢 Green
 [E]: ❔ Help
 [Q]: ❌ Exit
-[Enter]: Ⓐ Ⓑ Ⓒ
+[Enter]: 🔤 ABC
 ```
 
 ## Screenshots
-![](images/vdream_screenshot_01.png)<br>
-![](images/vdream_screenshot_02.png)<br>
-![](images/vdream_screenshot_03.png)<br>
-![](images/vdream_screenshot_01.png)<br>
+<img src="images/vdream_screenshot_01.png" width="960" height="540"><br>
+<img src="images/vdream_screenshot_02.png" width="960" height="540"><br>
+<img src="images/vdream_screenshot_03.png" width="960" height="540"><br>
+<img src="images/vdream_screenshot_01.png" width="960" height="540"><br>
 
 **V.Dream is an independent project of FODSOFT™ and is not affiliated with, endorsed by, or in any way connected to VTech® or any of its subsidiaries or affiliates. This software is created solely as a tribute to a classic educational console experience and is intended for preservation and educational purposes.** <br>
 ***V.DREAM DOES NOT ACCEPT DONATIONS.*** <br>
