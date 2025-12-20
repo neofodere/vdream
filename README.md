@@ -4,8 +4,8 @@ V.Dream is a V.Smile emulator developed by Néo Foderé de Frutos under the FODS
 
 ## Downloads (From resources.fodsoft.com)
 [Download the installer](https://resources.fodsoft.com/downloads/vdream_installer.exe)
-[Download the inportable version (x64)](https://resources.fodsoft.com/downloads/vdream_portable_x64.exe)
-[Download the inportable version (x86)](https://resources.fodsoft.com/downloads/vdream_portable_x86.exe)
+[Download the inportable version (x64)](https://resources.fodsoft.com/downloads/vdream_portable_x64.7z)
+[Download the inportable version (x86)](https://resources.fodsoft.com/downloads/vdream_portable_x86.7z)
 
 ## Controls
 ```
