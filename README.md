@@ -17,6 +17,13 @@ V.Dream is a V.Smile emulator developed by Néo Foderé de Frutos under the FODS
 [Q]: ❌ Exit
 [Enter]: 🔤 ABC
 ```
+
+## Screenshots
+<img src="images/vdream_screenshot_01.png" width="400" height="225"><br>
+<img src="images/vdream_screenshot_02.png" width="400" height="225"><br>
+<img src="images/vdream_screenshot_03.png" width="400" height="225"><br>
+<img src="images/vdream_screenshot_04.png" width="400" height="225"><br>
+
 ## How to use the V.Dream Help Tools
 `scripts/VDREAM_SHORTCUT.PS1:`
 1. Download the file VDREAM_SHORTCUT.PS1 to any folder on your computer.
@@ -25,12 +32,6 @@ V.Dream is a V.Smile emulator developed by Néo Foderé de Frutos under the FODS
 4. Run the script using this command: `powershell -ExecutionPolicy Bypass -File .\VDREAM_SHORTCUT.PS1`
 5. Wait for the message that confirms the shortcut was created.
 6. **Done!** Check your Desktop for the new V.Dream shortcut.
-
-## Screenshots
-<img src="images/vdream_screenshot_01.png" width="400" height="225"><br>
-<img src="images/vdream_screenshot_02.png" width="400" height="225"><br>
-<img src="images/vdream_screenshot_03.png" width="400" height="225"><br>
-<img src="images/vdream_screenshot_04.png" width="400" height="225"><br>
 
 <p><strong>V.Dream is an independent project of FODSOFT™ and is not affiliated with, endorsed by, or in any way connected to VTech® or any of its subsidiaries or affiliates. This software is created solely as a tribute to a classic educational console experience and is intended for preservation and educational purposes.</strong></p>
 <p><em><strong>V.DREAM DOES NOT ACCEPT DONATIONS.</strong></em></p>
