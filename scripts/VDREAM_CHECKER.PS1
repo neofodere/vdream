@@ -1,8 +1,16 @@
 # V.Dream Integrity Checker by FODSOFT(TM)
 
+param
+(
+    [string]$rutaVdream
+)
+
 $errores = @()
 $es64 = $env:PROCESSOR_ARCHITECTURE -eq "AMD64"
-$rutaVdream = "$env:LOCALAPPDATA\fodsoft\vdream"
+if (-not $rutaVdream -or $rutaVdream -eq "") 
+{
+    $rutaVdream = "$env:LOCALAPPDATA\fodsoft\vdream"
+}
 
 function Tamano-Archivo 
 {
@@ -41,7 +49,7 @@ foreach ($f in $archivos)
     }
     $tamBytes = (Get-Item $f.ruta).Length
     $tamKB = Tamano-Archivo $tamBytes
-    if ($tamRealKB -ne $f.tam) 
+    if ($tamKB -ne $f.tam) 
     {
         $errores += "$($f.nombre) has an invalid size ($tamKB KB)"
     }
@@ -76,4 +84,4 @@ else
         Write-Host $e
     }
 }
-# FODSOFT(TM). Neo Fodere de Frutos. All rights reserved
+# FODSOFT(TM). Neo Fodere de Frutos. All rights reserved.
