@@ -7,13 +7,13 @@ V.Dream is a V.Smile emulator developed by Néo Foderé de Frutos under the FODS
 [Download the portable version (x64)](https://resources.fodsoft.com/downloads/vdream_portable_x64.7z)<br>
 [Download the portable version (x86)](https://resources.fodsoft.com/downloads/vdream_portable_x86.7z)
 
-## Installation guide
+## Installation and Setup guide
 1. Download and install the **vdream_installer.exe** file.<br>
   1.1 Run it and select an installation folder, or use the default one.
 2. Or download and extract the **vdream_portable_{architecture}.7z** file and run **vdream.exe**.
-3. Open V.Dream and press the center button to select a folder, or go to `System -> Select folder`.
-4. Or go to `System -> Run cartridge` to launch a game directly.
-5. Now you can play, but some games require an official BIOS file. To import it, go to `Settings -> Paths -> BIOS`, or try to launch a game that requires a BIOS file and press `Import BIOS`.
+3. Open V.Dream and press the center button to select a folder, or go to `System -> Select folder`.<br> <img src="images/vdream_tuto_01.png" width="400" height="225"><br>
+4. Or go to `System -> Run cartridge` to launch a game directly.<br> <img src="images/vdream_tuto_03.png" width="400" height="225"><br>
+5. Now you can play, but some games require an official BIOS file. To import it, go to `Settings -> Paths -> BIOS`, or try to launch a game that requires a BIOS file and press `Import BIOS`.<br> <img src="images/vdream_tuto_02.png" width="400" height="225">
 
 ## Game Controls
 ```
