@@ -8,7 +8,6 @@ V.Dream is a V.Smile emulator developed by Néo Foderé de Frutos under the FODS
 [Download the portable version (x86)](https://resources.fodsoft.com/downloads/vdream_portable_x86.7z)
 
 ## Installation and Setup guide
-```
 ***First, download and install the .NET Desktop Runtime from the Microsoft website if you don’t already have it.***
 1. Download and install the **vdream_installer.exe** file.<br>
   1.1 Run it and select an installation folder, or use the default one. **(If you select a folder that requires elevated write permissions, you will need to run V.Dream as an administrator whenever you want to use it.)**
@@ -17,23 +16,22 @@ V.Dream is a V.Smile emulator developed by Néo Foderé de Frutos under the FODS
 4. Or go to `System -> Run cartridge` to launch a game directly.<br> <img src="images/vdream_tuto_03.png" width="432" height="328"><br>
 5. Now you can play, but some games require an official BIOS file. To import it, go to `Settings -> Paths -> BIOS`, or try to launch a game that requires a BIOS file and press `Import BIOS`.<br> <img src="images/vdream_tuto_02.png" width="432" height="328">
 6. You can switch the game menu mode between a vertical list view and a customizable cover view from `View -> Covers` and `View -> List`.<br> <img src="images/vdream_tuto_04.png" width="432" height="192">
-```
 
 ## Game Controls
-```
-[w], [↑]: ⬆️ Move up
-[A], [←]: ⬅️ Move left
-[S], [↓]: ⬇️ Move down
-[D], [→]: ➡️ Move right
-[Space]: ✔️ ENTER / OK
-[Z]: 🔴 Red
-[X]: 🟡 Yellow
-[C]: 🔵 Blue
-[V]: 🟢 Green
-[E]: ❔ Help
-[Q]: ❌ Exit
-[Enter]: 🔤 ABC
-```
+| Keyboard             | V.Smile          |
+|----------------------|------------------|
+| W / ↑                | Move up ⬆️       |
+| A / ←                | Move left ⬅️     |
+| S / ↓                | Move down ⬇️     |
+| D / →                | Move right ➡️    |
+| Space                | ENTER / OK ✔️    |
+| Z                    | Red 🔴           |
+| X                    | Yellow 🟡        |
+| C                    | Blue 🔵          |
+| V                    | Green 🟢         |
+| E                    | Help ❔          |
+| Q                    | Exit ❌          |
+| Enter                | ABC 🔤           |
 
 ## Screenshots
 <img src="images/vdream_screenshot_01.png" width="400" height="225"><br>
