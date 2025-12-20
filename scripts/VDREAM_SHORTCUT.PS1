@@ -1,4 +1,4 @@
-# V.Dream Shortuct Creator
+# V.Dream Shortcut Creator
 
 $rutaVdream = "$env:APPDATA\fodsoft\vdream\vdream.exe"
 $rutaAccesoDirecto = "$env:USERPROFILE\Desktop\V.Dream.lnk"
