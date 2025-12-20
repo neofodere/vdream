@@ -15,6 +15,7 @@ if (-Not (Test-Path $rutaVdream))
 $WshShell = New-Object -ComObject WScript.Shell
 $accesoDirecto = $WshShell.CreateShortcut($rutaAccesoDirecto)
 $accesoDirecto.TargetPath = $rutaVdream
+$accesoDirecto.WorkingDirectory = Split-Path $rutaVdream
 $accesoDirecto.Save()
 Write-Host "Shortcut created successfully on your Desktop."
 # FODSOFT(TM). Neo Fodere de Frutos. All rights reserved.
