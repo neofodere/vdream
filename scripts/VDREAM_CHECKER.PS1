@@ -20,13 +20,13 @@ function Tamano-Archivo
 
 if ($es64) 
 {
-    $tam_vdream = 198
+    $tam_vdream = 199
     $tam_core = 1082
     $tam_dll = 4613
 } 
 else 
 {
-    $tam_vdream = 168
+    $tam_vdream = 169
     $tam_core = 1031
     $tam_dll = 4614
 }
