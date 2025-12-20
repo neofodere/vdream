@@ -20,18 +20,18 @@ V.Dream is a V.Smile emulator developed by Néo Foderé de Frutos under the FODS
 ## Game Controls
 | Keyboard             | V.Smile          |
 |----------------------|------------------|
-| W / ↑                | Move up ⬆️       |
-| A / ←                | Move left ⬅️     |
-| S / ↓                | Move down ⬇️     |
-| D / →                | Move right ➡️    |
-| Space                | ENTER / OK ✔️    |
-| Z                    | Red 🔴           |
-| X                    | Yellow 🟡        |
-| C                    | Blue 🔵          |
-| V                    | Green 🟢         |
-| E                    | Help ❔          |
-| Q                    | Exit ❌          |
-| Enter                | ABC 🔤           |
+| [W], [↑]             | ⬆️ Move up       |
+| [A], [←]             | ⬅️ Move left     |
+| [S], [↓]             | ⬇️ Move down     |
+| [D], [→]             | ➡️ Move right    |
+| [Space]              | ✔️ ENTER / OK    |
+| [Z]                  | 🔴 Red           |
+| [X]                  | 🟡 Yellow        |
+| [C]                  | 🔵 Blue          |
+| [V]                  | 🟢 Green         |
+| [E]                  | ❔ Help          |
+| [Q]                  | ❌ Exit          |
+| [Enter]              | 🔤 ABC           |
 
 ## Screenshots
 <img src="images/vdream_screenshot_01.png" width="400" height="225"><br>
