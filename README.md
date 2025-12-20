@@ -38,7 +38,7 @@ V.Dream is a V.Smile emulator developed by Néo Foderé de Frutos under the FODS
 2. Open Windows PowerShell.
 3. Go to the folder where the script is located.
 4. Run the script using this command: `powershell -ExecutionPolicy Bypass -File .\VDREAM_CHECKER.PS1`
-5. Wait for the message. If it contains “OK”, your installation is correct. If it contains “KO”, the installation is corrupted or some files are missing.
+5. Wait for the message. If it contains **“OK”**, your installation is correct. If it contains **“KO”**, the installation is corrupted or some files are missing.
 
 <p><strong>V.Dream is an independent project of FODSOFT™ and is not affiliated with, endorsed by, or in any way connected to VTech® or any of its subsidiaries or affiliates. This software is created solely as a tribute to a classic educational console experience and is intended for preservation and educational purposes.</strong></p>
 <p><em><strong>V.DREAM DOES NOT ACCEPT DONATIONS.</strong></em></p>
