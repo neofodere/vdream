@@ -10,7 +10,7 @@ V.Dream is a V.Smile emulator developed by Néo Foderé de Frutos under the FODS
 ## Installation and Setup guide
 ***First, download and install the .NET Desktop Runtime from the Microsoft website if you don’t already have it.***
 1. Download and install the **vdream_installer.exe** file.<br>
-  1.1 Run it and select an installation folder, or use the default one.
+  1.1 Run it and select an installation folder, or use the default one. **(If you select a folder that requires elevated write permissions, you will need to run V.Dream as an administrator whenever you want to use it.)**
 2. Or download and extract the **vdream_portable_{architecture}.7z** file and run **vdream.exe**.
 3. Open V.Dream and press the center button to select a folder, or go to `System -> Select folder`.<br> <img src="images/vdream_tuto_01.png" width="432" height="328"><br>
 4. Or go to `System -> Run cartridge` to launch a game directly.<br> <img src="images/vdream_tuto_03.png" width="432" height="328"><br>
