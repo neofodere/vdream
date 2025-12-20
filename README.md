@@ -17,6 +17,9 @@ V.Dream is a V.Smile emulator developed by Néo Foderé de Frutos under the FODS
 [Q]: ❌ Exit
 [Enter]: 🔤 ABC
 ```
+## Help Tools
+
+
 ## Screenshots
 <img src="images/vdream_screenshot_01.png" width="400" height="225"><br>
 <img src="images/vdream_screenshot_02.png" width="400" height="225"><br>
