@@ -8,7 +8,7 @@ V.Dream is a V.Smile emulator developed by Néo Foderé de Frutos under the FODS
 [Download the portable version (x86)](https://resources.fodsoft.com/downloads/vdream_portable_x86.7z)
 
 ## Installation and Setup guide
-***First Download and install the .NET Desktop Runtime from the Microsoft website.***
+***First, download and install the .NET Desktop Runtime from the Microsoft website if you don’t already have it.***
 1. Download and install the **vdream_installer.exe** file.<br>
   1.1 Run it and select an installation folder, or use the default one.
 2. Or download and extract the **vdream_portable_{architecture}.7z** file and run **vdream.exe**.
@@ -53,7 +53,7 @@ V.Dream is a V.Smile emulator developed by Néo Foderé de Frutos under the FODS
 2. Open Windows PowerShell.
 3. Go to the folder where the script is located.
 4. Run the script using this command: `powershell -ExecutionPolicy Bypass -File .\VDREAM_CHECKER.PS1` **(You can also pass the installation path to the script as an argument if it’s not the default one.)**
-5. Wait for the message. If it contains <span style="color: green; font-weight: bold;">OK</span>, your installation is correct. If it contains <span style="color: red; font-weight: bold;">KO</span>, the installation is corrupted or some files are missing.
+5. Wait for the message. If it contains ✅ **OK**, your installation is correct. If it contains ❌ **KO**, the installation is corrupted or some files are missing.
 
 <p><strong>V.Dream is an independent project of FODSOFT™ and is not affiliated with, endorsed by, or in any way connected to VTech® or any of its subsidiaries or affiliates. This software is created solely as a tribute to a classic educational console experience and is intended for preservation and educational purposes.</strong></p>
 <p><em><strong>V.DREAM DOES NOT ACCEPT DONATIONS.</strong></em></p>
