@@ -1,4 +1,4 @@
-- ENGLISH -
+<- ENGLISH ->
 
 V.DREAM GAME CONTROLS:
 
@@ -17,6 +17,7 @@ Keyboard             | V.Smile
 [Q]                  | ❌ Exit
 [Enter]              | 🔤 ABC
 
+
 V.DREAM EMULATION SHORTCUTS:
 
 Keyboard             | Action
@@ -28,7 +29,10 @@ Keyboard             | Action
 [,]                  | Save state
 [.]                  | Load state
 
-- ESPAÑOL -
+
+
+
+<- ESPAÑOL ->
 
 CONTROLES DEL JUEGO DE V.DREAM:
 
@@ -47,6 +51,7 @@ Teclado              | V.Smile
 [Q]                  | ❌ Salir
 [Enter]              | 🔤 ABC
 
+
 ATAJOS DE EMULACIÓN DE V.DREAM:
 
 Teclado              | Acción
@@ -58,7 +63,10 @@ Teclado              | Acción
 [,]                  | Guardar estado
 [.]                  | Cargar estado
 
-- FRANÇAIS -
+
+
+
+<- FRANÇAIS ->
 
 COMMANDES DU JEU DU V.DREAM:
 
@@ -76,6 +84,7 @@ Clavier              | V.Smile
 [E]                  | ❔ Aide
 [Q]                  | ❌ Quitter
 [Entrée]             | 🔤 ABC
+
 
 RACCOURCIS D'ÉMULATION DU V.DREAM:
 
