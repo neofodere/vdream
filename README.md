@@ -1,6 +1,7 @@
 # V.Dream
 <img src="images/logo_vdream.png" width="600" height="450"><br>
-V.Dream is a V.Smile emulator developed by **Néo Foderé de Frutos** under the **FODSOFT™** brand and written in `C`, `C#` and `XAML` for modern devices. With V.Dream, you can play and relive the games from your childhood or discover them for the first time, develop your own software with instructions for the emulated hardware, among other features. It should be noted that neither FODSOFT™ nor V.Dream provide ROMs or any other means that facilitate piracy; the only thing FODSOFT™ offers is software that simulates the hardware of that era so the games can run on modern devices.<br>
+V.Dream is a V.Smile emulator developed by **Néo Foderé de Frutos** under the **FODSOFT™** brand and written in `C`, `C#` and `XAML`. The V.Dream core it's based on V.Frown, an emulator originaly developed by **lan (Schnert0)**.<br>
+With V.Dream, you can play and relive the games from your childhood or discover them for the first time, develop your own software with instructions for the emulated hardware, among other features. It should be noted that neither FODSOFT™ nor V.Dream provide ROMs or any other means that facilitate piracy; the only thing FODSOFT™ offers is software that simulates the hardware of that era so the games can run on modern devices.<br>
 
 ## Downloads `from resources.fodsoft.com`
 [Download the installer](https://resources.fodsoft.com/downloads/vdream_installer.exe)<br>
