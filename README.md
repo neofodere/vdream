@@ -50,14 +50,14 @@ V.Dream is a V.Smile emulator developed by Néo Foderé de Frutos under the FODS
 <img src="images/vdream_screenshot_04.png" width="400" height="225"><br>
 
 ## V.Dream folder structure
-`\saves:` Folder with your game savestates.<br>
-`vdream.exe:` The main executable of the emulator.<br>
-`vdream_core.exe:` The emulation core executable.<br>
-`vdream.dll:` Native library used by the emulator.<br>
-`vdream.config:` Configuration file for user preferences.<br>
-`vdream_core.config:` Configuration file for internal emulation parameters.<br>
-`vdream.deps.json:` Lists the .NET dependencies for emulator execution.<br>
-`vdream.runtimeconfig.json:` Defines the .NET runtime settings needed by the emulator.
+`\saves`: Folder with your game savestates.<br>
+`vdream.exe`: The main executable of the emulator.<br>
+`vdream_core.exe`: The emulation core executable.<br>
+`vdream.dll`: Native library used by the emulator.<br>
+`vdream.config`: Configuration file for user preferences.<br>
+`vdream_core.config`: Configuration file for internal emulation parameters.<br>
+`vdream.deps.json`: Lists the .NET dependencies for emulator execution.<br>
+`vdream.runtimeconfig.json`: Defines the .NET runtime settings needed by the emulator.
 
 ## How to use the V.Dream Help Tools
 `V.Dream Shortcut Creator: scripts/VDREAM_SHORTCUT.PS1`
