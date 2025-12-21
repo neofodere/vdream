@@ -56,7 +56,7 @@ V.Dream is a V.Smile emulator developed by Néo Foderé de Frutos under the FODS
 `vdream.dll`: Native library used by the emulator.<br>
 `vdream.config`: Configuration file for user preferences.<br>
 `vdream_core.config`: Configuration file for internal emulation parameters.<br>
-`vdream.deps.json`: Lists the .NET dependencies for emulator execution.<br>
+`vdream.deps.json`: Lists the .NET dependencies required for emulator execution.<br>
 `vdream.runtimeconfig.json`: Defines the .NET runtime settings needed by the emulator.
 
 ## How to use the V.Dream Help Tools
