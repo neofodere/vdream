@@ -1,4 +1,4 @@
-ENGLISH:
+- ENGLISH -
 
 V.DREAM GAME CONTROLS:
 
@@ -28,7 +28,7 @@ Keyboard             | Action
 [,]                  | Save state
 [.]                  | Load state
 
-ESPAÑOL:
+- ESPAÑOL -
 
 CONTROLES DEL JUEGO DE V.DREAM:
 
@@ -58,7 +58,7 @@ Teclado              | Acción
 [,]                  | Guardar estado
 [.]                  | Cargar estado
 
-FRANÇAIS:
+- FRANÇAIS -
 
 COMMANDES DU JEU DU V.DREAM:
 
