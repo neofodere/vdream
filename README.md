@@ -64,8 +64,7 @@ V.Dream is a V.Smile emulator developed by **Néo Foderé de Frutos** under the 
 `unins000.dat`: Data file used by the uninstaller to track installed files.
 
 ## How to use the V.Dream Help Tools
-***The default V.Dream directory is %LOCALAPPDATA%\fodsoft\vdream***
-
+***The default V.Dream directory is:*** %LOCALAPPDATA%\fodsoft\vdream<br>
 `V.Dream Shortcut Creator: scripts/VDREAM_SHORTCUT.PS1`
 1. Download the file ***VDREAM_SHORTCUT.PS1*** to any folder on your computer.
 2. Open Windows PowerShell.
