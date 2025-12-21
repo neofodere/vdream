@@ -59,7 +59,7 @@ V.Dream is a V.Smile emulator developed by Néo Foderé de Frutos under the FODS
 `vdream.deps.json`: Lists the .NET dependencies required for emulator execution.<br>
 `vdream.runtimeconfig.json`: Defines the .NET runtime settings needed by the emulator.
 ### Files created by the installer
-`V.Dream.lnk`: The V.Dream shortcut that points to **vdream.exe**.
+`V.Dream.lnk`: The V.Dream shortcut that points to **vdream.exe**.<br>
 `unins000.exe`: The V.Dream uninstaller.<br>
 `unins000.dat`: Data file used by the uninstaller to track installed files.
 
