@@ -31,7 +31,6 @@ Keyboard             | Action
 
 
 
-
 <- ESPAÑOL ->
 
 CONTROLES DEL JUEGO DE V.DREAM:
@@ -62,7 +61,6 @@ Teclado              | Acción
 [R]                  | Reiniciar
 [,]                  | Guardar estado
 [.]                  | Cargar estado
-
 
 
 
