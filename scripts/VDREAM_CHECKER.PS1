@@ -7,6 +7,7 @@ param
 
 $errores = @()
 $es64 = $env:PROCESSOR_ARCHITECTURE -eq "AMD64"
+
 if (-not $rutaVdream -or $rutaVdream -eq "") 
 {
     $rutaVdream = "$env:LOCALAPPDATA\fodsoft\vdream"
@@ -20,24 +21,19 @@ function Tamano-Archivo
 
 if ($es64) 
 {
-    $tam_vdream = 199
-    $tam_core = 1082
-    $tam_dll = 4613
-} 
+    $tam_vdream = 4817
+    $tam_core   = 1082
+}
 else 
 {
-    $tam_vdream = 169
-    $tam_core = 1031
-    $tam_dll = 4614
+    $tam_vdream = 4789
+    $tam_core   = 1031
 }
 
-$archivos = 
+$archivos =
 @(
     @{ nombre="vdream.exe"; ruta="$rutaVdream\vdream.exe"; tam=$tam_vdream },
-    @{ nombre="vdream_core.exe"; ruta="$rutaVdream\vdream_core.exe"; tam=$tam_core },
-    @{ nombre="vdream.dll"; ruta="$rutaVdream\vdream.dll"; tam=$tam_dll },
-    @{ nombre="vdream.deps.json"; ruta="$rutaVdream\vdream.deps.json"; tam=1 },
-    @{ nombre="vdream.runtimeconfig.json"; ruta="$rutaVdream\vdream.runtimeconfig.json"; tam=1 }
+    @{ nombre="vdream_core.exe"; ruta="$rutaVdream\vdream_core.exe"; tam=$tam_core }
 )
 
 foreach ($f in $archivos) 
@@ -75,7 +71,7 @@ if (-Not $runtimeOK)
 if ($errores.Count -eq 0) 
 {
     Write-Host "OK" -ForegroundColor Green
-} 
+}
 else 
 {
     Write-Host "KO" -ForegroundColor Red
@@ -84,4 +80,5 @@ else
         Write-Host $e
     }
 }
+
 # FODSOFT(TM). Neo Fodere de Frutos. All rights reserved.
