@@ -11,9 +11,10 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 
 ## Installation and Setup guide
 ***First, download and install the .NET Desktop Runtime from the Microsoft website if you don’t already have it.***
+
 1. Download and install the **vdream_installer.exe** file.
 
-  1.1. Run it and select an installation folder, or use the default one. **(If you select a folder that requires elevated write permissions, you will need to run V.Dream as an administrator whenever you want to use it)**.
+1.1. Run it and select an installation folder, or use the default one. **(If you select a folder that requires elevated write permissions, you will need to run V.Dream as an administrator whenever you want to use it)**.
 
 2. Or download and extract the **vdream_portable_{architecture}.7z** file and run **vdream.exe**.
 
