@@ -55,8 +55,7 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 `\saves`: Folder with your game savestates.<br>
 `\covers`: Folder with your game covers.<br>
 `vdream.exe`: The main executable of the emulator.<br>
-`vdream_core.exe`: The emulation core executable.<br>
-`vdream.dll`: Native library used by the emulator.<br>
+`vdream_core.exe`: The emulation core executable based on V.Frown.<br>
 `bios.bin`: A copy of the BIOS file you have imported.<br>
 `vdream.config`: Configuration file for user preferences.<br>
 `vdream_core.config`: Configuration file for internal emulation parameters.<br>
