@@ -17,7 +17,7 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 3. Open V.Dream and press the center button to select a folder, or go to `System -> Select folder`.<br> <img src="images/vdream_tuto_01.png" width="432" height="328"><br>
 4. Or go to `System -> Run cartridge` to launch a game directly.<br> <img src="images/vdream_tuto_03.png" width="432" height="328"><br>
 5. Now you can play, but some games require an official BIOS file. To import it, go to `Settings -> Paths -> BIOS`, or try to launch a game that requires a BIOS file and press `Import BIOS`.<br> <img src="images/vdream_tuto_02.png" width="432" height="328">
-6. You can switch the game menu mode between a vertical list view and a customizable cover view from `View -> Covers` and `View -> List`.<br> <img src="images/vdream_tuto_04.png" width="432" height="192">
+6. You can switch the game menu mode between a vertical list view and a customizable cover view from `View -> Covers` and `View -> List`.<br> <img src="images/vdream_tuto_04.png" width="421" height="187.5">
 
 ## Game Controls
 | Keyboard             | V.Smile          |
