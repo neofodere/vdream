@@ -57,7 +57,7 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 <img src="images/vdream_screenshot_04.png" width="400" height="225"><br>
 
 ## Videos
-[![](https://img.youtube.com/vi/nBWWK4eleDg/hqdefault.jpg)](https://www.youtube.com/watch?v=nBWWK4eleDg)
+[![](https://img.youtube.com/vi/nBWWK4eleDg/sddefault.jpg)](https://www.youtube.com/watch?v=nBWWK4eleDg)
 
 ## V.Dream folder structure
 `\saves`: Folder with your game savestates.<br>
