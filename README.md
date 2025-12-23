@@ -4,12 +4,12 @@ V.Dream is a V.Smile emulator developed by **Néo Foderé de Frutos** under the 
 
 With V.Dream, you can play and relive the games from your childhood or discover them for the first time, develop your own software with instructions for the emulated hardware, among other features. It should be noted that neither FODSOFT™ nor V.Dream provide ROMs or any other means that facilitate piracy; the only thing FODSOFT™ offers is software that simulates the hardware of that era so the games can run on modern devices.<br>
 
-## Downloads `from resources.fodsoft.com`
+## 🌐 Downloads `from resources.fodsoft.com`
 [Download the installer](https://resources.fodsoft.com/downloads/vdream_installer.exe)<br>
 [Download the portable version (x64)](https://resources.fodsoft.com/downloads/vdream_portable_x64.7z)<br>
 [Download the portable version (x86)](https://resources.fodsoft.com/downloads/vdream_portable_x86.7z)
 
-## Installation and Setup guide
+## 🔧 Installation and Setup guide
 ***First, download and install the .NET Desktop Runtime from the Microsoft website if you don’t already have it.***
 
 1. Download and install the **vdream_installer.exe** file.
@@ -24,7 +24,7 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 6. If you want a smoother output image, change the setting from `Settings -> Graphics -> Image mode -> Smoothing (Linear)`.<br> <img src="images/vdream_tuto_04.png" width="423.5" height="310.5"><br>
 7. You can switch the game menu mode between a vertical list view and a customizable cover view from `View -> Covers` and `View -> List`.<br> <img src="images/vdream_tuto_05.png" width="421" height="187.5">
 
-## Game Controls
+## 🕹️ Game Controls
 | Keyboard             | V.Smile          |
 |----------------------|------------------|
 | [W], [↑]             | ⬆️ Move up       |
@@ -40,7 +40,7 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 | [Q]                  | ❌ Exit          |
 | [Enter]              | 🔤 ABC           |
 
-## Emulation shortcuts
+## ⌨️ Emulation shortcuts
 | Keyboard             | Action           |
 |----------------------|------------------|
 | [F]                  | Full screen      |
@@ -50,18 +50,18 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 | [,]                  | Save state       |
 | [.]                  | Load state       |
 
-## Screenshots
+## 📸 Screenshots
 <img src="images/vdream_screenshot_01.png" width="512" height="288"><br>
 <img src="images/vdream_screenshot_02.png" width="512" height="288"><br>
 <img src="images/vdream_screenshot_03.png" width="512" height="288"><br>
 <img src="images/vdream_screenshot_04.png" width="512" height="288"><br>
 
-## GIF's
+## 🖼️ GIF's
 
 <img src="images/vdream_gif_01.webp" width="512" height="288">
 <img src="images/vdream_gif_02.webp" width="512" height="288">
 
-## V.Dream folder structure
+## 📁 V.Dream folder structure
 `\saves`: Folder with your game savestates.<br>
 `\covers`: Folder with your game covers.<br>
 `vdream.exe`: The main executable of the emulator.<br>
@@ -69,12 +69,12 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 `bios.bin`: A copy of the BIOS file you have imported.<br>
 `vdream.config`: Configuration file for user preferences.<br>
 `vdream_core.config`: Configuration file for internal emulation parameters.
-### Files created by the installer
+### 💾 Files created by the installer
 `V.Dream.lnk`: The V.Dream shortcut that points to **vdream.exe**.<br>
 `unins000.exe`: The V.Dream uninstaller.<br>
 `unins000.dat`: Data file used by the uninstaller to track installed files.
 
-## How to use the V.Dream Help Tools
+## 📦 How to use the V.Dream Help Tools
 ***The default V.Dream directory is:*** `%LOCALAPPDATA%\fodsoft\vdream`
 
 **=>**`V.Dream Shortcut Creator: scripts/VDREAM_SHORTCUT.PS1`
