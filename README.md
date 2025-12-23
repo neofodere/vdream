@@ -4,10 +4,15 @@ V.Dream is a V.Smile emulator developed by **Néo Foderé de Frutos** under the 
 
 With V.Dream, you can play and relive the games from your childhood or discover them for the first time, develop your own software with instructions for the emulated hardware, among other features. It should be noted that neither FODSOFT™ nor V.Dream provide ROMs or any other means that facilitate piracy; the only thing FODSOFT™ offers is software that simulates the hardware of that era so the games can run on modern devices.<br>
 
-## 🌐 Downloads `from resources.fodsoft.com`
+## 💾 Downloads
+### 🌐 `from resources.fodsoft.com`
 [Download the installer](https://resources.fodsoft.com/downloads/vdream_installer.exe)<br>
 [Download the portable version (x64)](https://resources.fodsoft.com/downloads/vdream_portable_x64.7z)<br>
 [Download the portable version (x86)](https://resources.fodsoft.com/downloads/vdream_portable_x86.7z)
+
+### 🧭 Other download options
+[Download from Itch](https://fodsoft.itch.io/vdream)<br>
+[Download from SourceForge](https://sourceforge.net/projects/v-dream/)<br>
 
 ## 🔧 Installation and Setup guide
 ***First, download and install the .NET Desktop Runtime from the Microsoft website if you don’t already have it.***
