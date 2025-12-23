@@ -51,15 +51,15 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 | [.]                  | Load state       |
 
 ## Screenshots
-<img src="images/vdream_screenshot_01.png" width="400" height="225"><br>
-<img src="images/vdream_screenshot_02.png" width="400" height="225"><br>
-<img src="images/vdream_screenshot_03.png" width="400" height="225"><br>
-<img src="images/vdream_screenshot_04.png" width="400" height="225"><br>
+<img src="images/vdream_screenshot_01.png" width="512" height="288"><br>
+<img src="images/vdream_screenshot_02.png" width="512" height="288"><br>
+<img src="images/vdream_screenshot_03.png" width="512" height="288"><br>
+<img src="images/vdream_screenshot_04.png" width="512" height="288"><br>
 
 ## GIF's
 
-<img src="images/vdream_gif_01.apng" width="640" height="480">
-<img src="images/vdream_gif_02.apng" width="640" height="480">
+<img src="images/vdream_gif_01.apng" width="512" height="288">
+<img src="images/vdream_gif_02.apng" width="512" height="288">
 
 ## V.Dream folder structure
 `\saves`: Folder with your game savestates.<br>
