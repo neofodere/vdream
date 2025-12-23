@@ -58,8 +58,8 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 
 ## GIF's
 
-![](images/vdream_gif_01.apng)
-![](images/vdream_gif_02.apng)
+<img src="images/vdream_gif_01.apng" width="640" height="480">
+<img src="images/vdream_gif_02.apng" width="640" height="480">
 
 ## V.Dream folder structure
 `\saves`: Folder with your game savestates.<br>
