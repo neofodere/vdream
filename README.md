@@ -74,12 +74,12 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 `bios.bin`: A copy of the BIOS file you have imported.<br>
 `vdream.config`: Configuration file for user preferences.<br>
 `vdream_core.config`: Configuration file for internal emulation parameters.
-### 💾 Files created by the installer
+### 📦 Files created by the installer
 `V.Dream.lnk`: The V.Dream shortcut that points to **vdream.exe**.<br>
 `unins000.exe`: The V.Dream uninstaller.<br>
 `unins000.dat`: Data file used by the uninstaller to track installed files.
 
-## 📦 How to use the V.Dream Help Tools
+## 🛠️ How to use the V.Dream Help Tools
 ***The default V.Dream directory is:*** `%LOCALAPPDATA%\fodsoft\vdream`
 
 **=>**`V.Dream Shortcut Creator: scripts/VDREAM_SHORTCUT.PS1`
