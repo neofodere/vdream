@@ -56,10 +56,10 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 <img src="images/vdream_screenshot_03.png" width="400" height="225"><br>
 <img src="images/vdream_screenshot_04.png" width="400" height="225"><br>
 
-## Videos
-`Testing V.Dream emulator with 2 games (YouTube)`:
+## GIF's
 
-[![](images/yt_vdream_test.png)](https://www.youtube.com/watch?v=nBWWK4eleDg)
+![](images/vdream_gif_01.apng)
+![](images/vdream_gif_02.apng)
 
 ## V.Dream folder structure
 `\saves`: Folder with your game savestates.<br>
