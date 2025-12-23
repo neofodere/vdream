@@ -10,7 +10,7 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 [Download the portable version (x64)](https://resources.fodsoft.com/downloads/vdream_portable_x64.7z)<br>
 [Download the portable version (x86)](https://resources.fodsoft.com/downloads/vdream_portable_x86.7z)
 
-### 🧭 Other download options
+### 🧭 `Other download options`
 [Download from Itch](https://fodsoft.itch.io/vdream)<br>
 [Download from SourceForge](https://sourceforge.net/projects/v-dream/)<br>
 
