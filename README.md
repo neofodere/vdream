@@ -56,7 +56,7 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 <img src="images/vdream_screenshot_03.png" width="512" height="288"><br>
 <img src="images/vdream_screenshot_04.png" width="512" height="288"><br>
 
-## GIF's
+### GIF's
 
 <img src="images/vdream_gif_01.apng" width="512" height="288">
 <img src="images/vdream_gif_02.apng" width="512" height="288">
