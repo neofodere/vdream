@@ -12,7 +12,7 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 
 ### 🧭 `Other download options`
 [Download from Itch](https://fodsoft.itch.io/vdream)  
-[Download from SourceForge](https://sourceforge.net/projects/v-dream)
+[Download from SourceForge](https://sourceforge.net/projects/v-dream/)
 
 ## 🔧 Installation and Setup guide
 🧩 ***First, download and install the .NET Desktop Runtime from the Microsoft website if you don’t already have it.***
