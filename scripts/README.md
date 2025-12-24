@@ -1,4 +1,5 @@
 # V.Dream Helper Scripts
+![](../images/logo_vdream_helper_scripts.png)
 
 ## 🛠️ How to use the V.Dream Helper Scripts
 ***The default V.Dream directory path is:*** `%LOCALAPPDATA%\fodsoft\vdream`
