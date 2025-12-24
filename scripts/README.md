@@ -4,7 +4,7 @@
 ## 🛠️ How to use the V.Dream Helper Scripts
 ***The default V.Dream directory path is:*** `%LOCALAPPDATA%\fodsoft\vdream`
 
-### **=>** V.Dream Shortcut Creator: `VDREAM_SHORTCUT.PS1`
+### **=>** V.Dream Shortcut Creator `VDREAM_SHORTCUT.PS1`:
 1. Download the file ***VDREAM_SHORTCUT.PS1*** to any folder on your computer.
    
 2. Open Windows PowerShell.
@@ -17,7 +17,7 @@
 
 6. **Done!** Check your Desktop for the new V.Dream shortcut.
 
-### **=>** V.Dream Integrity Checker: `VDREAM_CHECKER.PS1`
+### **=>** V.Dream Integrity Checker `VDREAM_CHECKER.PS1`:
 1. Download the file ***VDREAM_CHECKER.PS1*** to any folder on your computer.
 
 2. Open Windows PowerShell.
