@@ -27,5 +27,5 @@
 
 5. Wait for the message. If it contains ✅ **OK**, your installation is correct. If it contains ❌ **KO**, the installation is corrupted or some files are missing.
 
-© 2025 FODSOFT™. Néo Foderé de Frutos. All rights reserved.
+**© 2025 FODSOFT™. Néo Foderé de Frutos. All rights reserved.**
 <!-- FODSOFT(TM). Neo Fodere de Frutos. All rights reserved. -->
