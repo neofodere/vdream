@@ -1,4 +1,6 @@
 # V.Dream
+
+## 📖 Description
 <img src="images/logo_vdream.png" width="600" height="450"><br>
 V.Dream is a V.Smile emulator developed by **Néo Foderé de Frutos** under the **FODSOFT™** brand and written in `C`, `C#`, and `XAML`. The V.Dream core is based on V.Frown, an emulator originally developed by **Ian (Schnert0)** and other contributors.<br>
 
