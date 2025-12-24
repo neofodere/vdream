@@ -1,7 +1,7 @@
 # V.Dream Helper Scripts
 ![](../images/logo_vdream_helper_scripts.png)
 
-## 🛠️ How to use the V.Dream Helper Scripts
+## 🛠️ How to use
 ***The default V.Dream directory path is:*** `%LOCALAPPDATA%\fodsoft\vdream`
 
 ### **=>** V.Dream Shortcut Creator `VDREAM_SHORTCUT.PS1`:
