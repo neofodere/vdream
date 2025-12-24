@@ -18,7 +18,7 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 
 ## 🔧 Installation and Setup guide
 > [!IMPORTANT]
->🧩 ***First, download and install the .NET Desktop Runtime from the Microsoft website if you don’t already have it.***
+>🧩 ***First, download and install the .NET Desktop Runtime 8.0 or later from the Microsoft website if you don’t already have it.***
 
 1. Download and install the **vdream_installer.exe** file.
 
