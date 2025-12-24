@@ -97,7 +97,7 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 ## 🛠️ How to use the V.Dream Help Tools
 ***The default V.Dream directory is:*** `%LOCALAPPDATA%\fodsoft\vdream`
 
-### **=>**`V.Dream Shortcut Creator: scripts/VDREAM_SHORTCUT.PS1`
+### **=>** V.Dream Shortcut Creator: `scripts/VDREAM_SHORTCUT.PS1`
 1. Download the file ***VDREAM_SHORTCUT.PS1*** to any folder on your computer.
    
 2. Open Windows PowerShell.
@@ -110,7 +110,7 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 
 6. **Done!** Check your Desktop for the new V.Dream shortcut.
 
-### **=>**`V.Dream Integrity Checker: scripts/VDREAM_CHECKER.PS1`
+### **=>** V.Dream Integrity Checker: `scripts/VDREAM_CHECKER.PS1`
 1. Download the file ***VDREAM_CHECKER.PS1*** to any folder on your computer.
 
 2. Open Windows PowerShell.
