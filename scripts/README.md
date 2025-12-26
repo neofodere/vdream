@@ -5,6 +5,9 @@
 
 ## **=>** V.Dream Shortcut Creator `VDREAM_SHORTCUT.PS1`:
 
+### 💡 What is its purpose
+Create a V.Dream shortcut on the desktop and in the Start Menu.
+
 ### 🛠️ How to use
 1. Download the file ***VDREAM_SHORTCUT.PS1*** to any folder on your computer.
    
@@ -20,6 +23,9 @@
 
 ## **=>** V.Dream Integrity Checker `VDREAM_CHECKER.PS1`:
 
+### 💡 What is its purpose
+Verify that your V.Dream installation is not corrupted and that no files are missing.
+
 ### 🛠️ How to use
 1. Download the file ***VDREAM_CHECKER.PS1*** to any folder on your computer.
 
@@ -32,6 +38,9 @@
 5. Wait for the message. If it contains ✅ **OK**, your installation is correct. If it contains ❌ **KO**, the installation is corrupted or some files are missing.
 
 ## **=>** Corrupted image files Deleter for V.Dream `CORRUPTED_IMAGES_DELETER.PS1`:
+
+### 💡 What is its purpose
+Delete corrupted image files that prevent V.Dream from launching.
 
 ### 🛠️ How to use
 1. Download the file ***CORRUPTED_IMAGES_DELETER.PS1*** to any folder on your computer if you installed V.Dream, or to the V.Dream folder if you are using the portable version.
