@@ -1,10 +1,11 @@
 # V.Dream Helper Scripts
 ![](../images/logo_vdream_helper_scripts.png)
 
-## 🛠️ How to use
 ***The default V.Dream directory path is:*** `%LOCALAPPDATA%\fodsoft\vdream`
 
 ## **=>** V.Dream Shortcut Creator `VDREAM_SHORTCUT.PS1`:
+
+### 🛠️ How to use
 1. Download the file ***VDREAM_SHORTCUT.PS1*** to any folder on your computer.
    
 2. Open Windows PowerShell.
@@ -18,6 +19,8 @@
 6. **Done!** Check your Desktop for the new V.Dream shortcut.
 
 ## **=>** V.Dream Integrity Checker `VDREAM_CHECKER.PS1`:
+
+### 🛠️ How to use
 1. Download the file ***VDREAM_CHECKER.PS1*** to any folder on your computer.
 
 2. Open Windows PowerShell.
@@ -29,6 +32,8 @@
 5. Wait for the message. If it contains ✅ **OK**, your installation is correct. If it contains ❌ **KO**, the installation is corrupted or some files are missing.
 
 ## **=>** Corrupted image files Deleter for V.Dream `CORRUPTED_IMAGES_DELETER.PS1`:
+
+### 🛠️ How to use
 1. Download the file ***CORRUPTED_IMAGES_DELETER.PS1*** to any folder on your computer if you installed V.Dream, or to the V.Dream folder if you are using the portable version.
 
 2. Open Windows PowerShell.
