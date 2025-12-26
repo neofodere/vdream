@@ -1,4 +1,4 @@
-# Integrity Checker for V.Dream v.1.0 by FODSOFT(TM)
+# Integrity Checker for V.Dream v.1.0/v.1.1 by FODSOFT(TM)
 
 param
 (
