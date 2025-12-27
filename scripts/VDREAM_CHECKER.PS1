@@ -1,9 +1,6 @@
-# Integrity Checker for V.Dream v.1.0/v.1.1 by FODSOFT(TM)
+# Integrity Checker for V.Dream by FODSOFT(TM)
 
-param
-(
-    [string]$rutaVdream
-)
+param([string]$rutaVdream)
 
 $errores = @()
 $es64 = $env:PROCESSOR_ARCHITECTURE -eq "AMD64"
@@ -13,71 +10,65 @@ if (-not $rutaVdream -or $rutaVdream -eq "")
     $rutaVdream = "$env:LOCALAPPDATA\fodsoft\vdream"
 }
 
-function Tamano-Archivo 
-{
-    param([long]$bytes)
-    return [math]::Ceiling($bytes / 1024)
+function KB 
+{ 
+    param($bytes) [math]::Ceiling($bytes / 1024) 
 }
 
-if ($es64) 
-{
-    $tam_vdream = 4817
-    $tam_core   = 1082
-}
-else 
-{
-    $tam_vdream = 4789
-    $tam_core   = 1031
-}
-
-$archivos =
+$versiones =
 @(
-    @{ nombre="vdream.exe"; ruta="$rutaVdream\vdream.exe"; tam=$tam_vdream },
-    @{ nombre="vdream_core.exe"; ruta="$rutaVdream\vdream_core.exe"; tam=$tam_core }
+    @{
+        ver = "v1.1"
+        vdream = if ($es64) { 4817 } else { 4789 }
+        core = if ($es64) { 1082 } else { 1031 }
+    },
+    @{
+        ver = "v1.2"
+        vdream = if ($es64) { 4818 } else { 4791 }
+        core = if ($es64) { 1082 } else { 1031 }
+    }
 )
 
-foreach ($f in $archivos) 
+$rutaVdream = "$rutaVdream\vdream.exe"
+$rutaCore = "$rutaVdream\vdream_core.exe"
+
+if (-not (Test-Path $rutaVdream))
+{ 
+    $errores += "vdream.exe is missing" 
+}
+
+if (-not (Test-Path $rutaCore))   
+{ 
+    $errores += "vdream_core.exe is missing" 
+}
+
+if ($errores.Count -eq 0) 
 {
-    if (-Not (Test-Path $f.ruta)) 
+    $tam_vdream = KB ((Get-Item $rutaVdream).Length)
+    $tam_core   = KB ((Get-Item $rutaCore).Length)
+    $versionDetectada = $versiones |
+        Where-Object { $_.vdream -eq $tam_vdream -and $_.core -eq $tam_core } |
+        Select-Object -First 1
+    if (-not $versionDetectada) 
     {
-        $errores += "$($f.nombre) is missing"
-        continue
-    }
-    $tamBytes = (Get-Item $f.ruta).Length
-    $tamKB = Tamano-Archivo $tamBytes
-    if ($tamKB -ne $f.tam) 
-    {
-        $errores += "$($f.nombre) has an invalid size ($tamKB KB)"
+        $errores += "Unknown or modified V.Dream version (vdream=$tam_vdream KB, core=$tam_core KB)"
     }
 }
 
-$runtimeOK = $false
 $dotnetList = & dotnet --list-runtimes 2>$null
-
-if ($dotnetList) 
-{
-    if ($dotnetList -match "Microsoft.NETCore.App 8\.0" -and
-        $dotnetList -match "Microsoft.WindowsDesktop.App 8\.0") 
-    {
-        $runtimeOK = $true
-    }
-}
-
-if (-Not $runtimeOK) 
+if (-not ($dotnetList -match "Microsoft.NETCore.App 8\.0" -and
+    $dotnetList -match "Microsoft.WindowsDesktop.App 8\.0")) 
 {
     $errores += ".NET 8 Desktop Runtime is missing"
 }
 
 if ($errores.Count -eq 0) 
 {
-    Write-Host "OK" -ForegroundColor Green
+    Write-Host "$($versionDetectada.ver) OK" -ForegroundColor Green
 }
 else 
 {
     Write-Host "KO" -ForegroundColor Red
-    foreach ($e in $errores) 
-    {
-        Write-Host $e
-    }
+    $errores | ForEach-Object { Write-Host $_ }
 }
 # FODSOFT(TM). Neo Fodere de Frutos. All rights reserved.
