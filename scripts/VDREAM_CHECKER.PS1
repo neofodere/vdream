@@ -55,9 +55,9 @@ if ($errores.Count -eq 0)
     }
 }
 
-$dotnetList = & dotnet --list-runtimes 2>$null
-if (-not ($dotnetList -match "Microsoft.NETCore.App 8\.0" -and
-    $dotnetList -match "Microsoft.WindowsDesktop.App 8\.0")) 
+$listaDotnet = & dotnet --list-runtimes 2>$null
+if (-not ($listaDotnet -match "Microsoft.NETCore.App 8\.0" -and
+    $listaDotnet -match "Microsoft.WindowsDesktop.App 8\.0")) 
 {
     $errores += ".NET 8 Desktop Runtime is missing"
 }
