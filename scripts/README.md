@@ -37,6 +37,9 @@ Verify that your V.Dream installation is not corrupted and that no files are mis
 
 5. Wait for the message. If it contains ✅ **OK**, your installation is correct. If it contains ❌ **KO**, the installation is corrupted or some files are missing.
 
+> [!IMPORTANT]
+>If the version shown in the output next to OK does not match your version, it's a bad sign even if it says OK.
+
 ## **=>** Corrupted image files Deleter for V.Dream `CORRUPTED_IMAGES_DELETER.PS1`:
 
 ### 💡 What is its purpose
