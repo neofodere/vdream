@@ -18,7 +18,7 @@ function KB
 $versiones =
 @(
     @{
-        ver = "v1.1"
+        ver = "v.1.0/v1.1"
         vdream = if ($es64) { 4817 } else { 4789 }
         core = if ($es64) { 1082 } else { 1031 }
     },
