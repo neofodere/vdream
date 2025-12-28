@@ -1,4 +1,4 @@
-# V.Dream releases
+# V.Dream official releases
 
 ## V.Dream `v.1.0` (Original release)
 Release date: 20/12/2025
