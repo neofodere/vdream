@@ -8,9 +8,9 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 
 ## 💾 Downloads
 ### 🌐 `from resources.fodsoft.com`
-[Download the installer](https://resources.fodsoft.com/downloads/vdream_installer.exe)<br>
-[Download the portable version (x64)](https://resources.fodsoft.com/downloads/vdream_portable_x64.7z)<br>
-[Download the portable version (x86)](https://resources.fodsoft.com/downloads/vdream_portable_x86.7z)
+[Download the installer](https://resources.fodsoft.com/downloads/vdream-win-installer)<br>
+[Download the portable version (x64)](https://resources.fodsoft.com/downloads/vdream-win-x64-portable)<br>
+[Download the portable version (x86)](https://resources.fodsoft.com/downloads/vdream-win-x86-portable)
 
 ### 🧭 `Other download options`
 [Download from Itch](https://fodsoft.itch.io/vdream)  
