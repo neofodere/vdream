@@ -1,12 +1,14 @@
 # V.Dream official releases
 
 ## V.Dream `v.1.0` (Original release)
-Release date: 20/12/2025
+>[!NOTE]
+>🕝 Release date: 20/12/2025
 ### Known Issues:
 Setting a corrupted image—or a file with a .png or .jpg extension that wasn’t actually an image—as a cover could cause the emulator to crash and fail to start until the generated copy inside the \covers folder was removed.
 
 ## V.Dream `v.1.1`:
-Release date: 26/12/2025
+>[!NOTE]
+>🕝 Release date: 26/12/2025
 ### Fixes and additions:
 - Fixed an issue where setting a corrupted image—or a file with a .png or .jpg extension that wasn’t actually an image—as a cover would cause the emulator to crash and refuse to start until the generated copy inside the \covers folder was deleted.
 
@@ -15,7 +17,8 @@ Release date: 26/12/2025
 - Minor visual polish and small aesthetic improvements.
 
 ## V.Dream `v.1.2`:
-Release date: 27/12/2025
+>[!NOTE]
+>🕝 Release date: 27/12/2025
 ### Fixes and additions:
 - The startup loading time has been reduced to less than half compared to versions v1.0 and v1.1.
 
@@ -26,7 +29,8 @@ Release date: 27/12/2025
 - Minor visual polish and small aesthetic improvements.
 
 ## V.Dream `v1.3`:
-Release date: 29/12/2025
+>[!NOTE]
+>🕝 Release date: 29/12/2025
 ### Fixes and additions:
 - Startup time has been reduced even further.
 
