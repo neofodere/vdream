@@ -1,4 +1,5 @@
 # ⌛ V.Dream Official Releases
+![](../images/logo_vdream_alt.png)
 
 ## V.Dream `v.1.0` (Original release)
 >[!NOTE]
