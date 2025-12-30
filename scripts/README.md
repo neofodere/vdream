@@ -1,7 +1,11 @@
 # V.Dream Helper Scripts
 ![](../images/logo_vdream_helper_scripts.png)
 
-***The default V.Dream directory path is:*** `%LOCALAPPDATA%\fodsoft\vdream`
+>[!NOTE]
+>***The default V.Dream directory path is:*** `%LOCALAPPDATA%\fodsoft\vdream`
+
+>[!TIP]
+>You may need to run PowerShell as an administrator for some scripts to work.
 
 ## **=>** V.Dream Shortcut Creator `VDREAM_SHORTCUT.PS1`:
 
