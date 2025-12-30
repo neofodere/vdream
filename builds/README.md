@@ -1,7 +1,7 @@
 # ⌛ V.Dream Official Releases
 ![](../images/logo_vdream_alt.png)
 
-## V.Dream `v.1.0` (Original release)
+## V.Dream `v.1.0` ***(Original release)***
 >[!NOTE]
 >🕝 Release date: 20/12/2025
 ### Known Issues:
