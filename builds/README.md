@@ -20,7 +20,7 @@ Setting a corrupted image—or a file with a .png or .jpg extension that wasn’
 >[!NOTE]
 >🕝 Release date: 27/12/2025
 ### Fixes and additions:
-- The startup loading time has been reduced to less than half compared to versions v1.0 and v1.1.
+- The startup loading time has been reduced to less than half compared to versions v.1.0 and v.1.1.
 
 - The startup window now includes a new method that initializes the configuration to the default settings if it was deleted or didn’t exist.
 
