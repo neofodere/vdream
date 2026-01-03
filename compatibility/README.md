@@ -26,7 +26,7 @@
 
 - ***Barney: The Land of Make Believe*** - 🎲 No tested
 
-- ***Bert & Ernie's Imagination Adventure - ✅ Playable
+- ***Bert & Ernie's Imagination Adventure*** - ✅ Playable
 
 - ***Bob the Builder: Bob's Busy Day*** - 🎲 No tested
 
