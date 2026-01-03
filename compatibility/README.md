@@ -80,7 +80,7 @@
 
 - ***DreamWorks Shrek the Third: Arthur's School Day Adventure*** - 🎲 No tested
 
-- ***Handy Many*** - 🎲 No tested
+- ***Handy Manny*** - 🎲 No tested
 
 - ***Learnin' Wheels*** - 🎲 No tested
 
@@ -104,7 +104,7 @@
 
 - ***Nick Jr The Backyardigans: Viking Voyage*** - 🎲 No tested
 
-- ***Nick Jr Wow! Wow! Wubbzy!*** - 🎲 No tested
+- ***Nick Jr. Wow! Wow! Wubbzy!*** - 🎲 No tested
 
 - ***Noddy: Detective for a Day*** - 🎲 No tested
 
