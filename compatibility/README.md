@@ -12,13 +12,13 @@
 
 ## 🕹️ V.Smile / V.Smile Pocket Games
 >[!NOTE]
->Games tested: **2/57**
+>Games tested: **10/62**
 
->✅ Playable games: **2/57**
+>✅ Playable games: **8/62**
 
->👣 Boot games: **0/57**
+>👣 Boot games: **1/62**
 
->💥 Nothing games: **0/57**
+>💥 Nothing games: **1/62**
 
 - ***Action Mania*** - 🎲 No tested
 
