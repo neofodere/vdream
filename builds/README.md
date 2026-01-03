@@ -49,5 +49,6 @@ Setting a corrupted image—or a file with a .png or .jpg extension that wasn’
 
 - The version numbering has been changed from the ‘v.x.x’ style to the ‘vx.x’ style for greater consistency.
 
-**© 2025 FODSOFT™. Néo Foderé de Frutos. All rights reserved.**
+**© 2026 FODSOFT™. Néo Foderé de Frutos. All rights reserved.**
+
 <!-- FODSOFT(TM). Neo Fodere de Frutos. All rights reserved. -->
