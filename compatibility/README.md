@@ -18,6 +18,6 @@
 
 >💥 Nothing games: **0/63**
 
-- 🇺🇸 Alphabet Park Adventure (USA) - ✅ Playable
+- 🇺🇸 ***Alphabet Park Adventure (USA)*** - ✅ Playable
 
-- 🇫🇷 Scooby-Doo!: Panique à Funland (France) - ✅ Playable
+- 🇫🇷 ***Scooby-Doo!: Panique à Funland (France)*** - ✅ Playable
