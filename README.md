@@ -101,7 +101,7 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 
 - 🇫🇷 French - ✅ 100% (Completed)
 
-## 🗒️ Planned features
+## 📒 Planned features
 
 >[!NOTE]
 >I can't promise 100% that I'll be able to deliver everything, but my priority for the project is to add the following features:
