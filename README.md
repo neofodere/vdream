@@ -125,4 +125,5 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 ***V.DREAM DOES NOT ACCEPT DONATIONS.***
 
 **© 2026 FODSOFT™. Néo Foderé de Frutos. All rights reserved.**
+
 <!-- FODSOFT(TM). Neo Fodere de Frutos. All rights reserved. -->
