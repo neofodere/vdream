@@ -99,17 +99,17 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 >[!NOTE]
 >I can't promise 100% that I'll be able to deliver everything, but my priority for the project is to add the following features:
 
-- 🔊 Improved audio.
+- 🔊 Improved audio
 
-- 💿 Compatibility with V.Flash/V.Smile Pro.
+- 💿 Compatibility with V.Flash / V.Smile Pro
 
-- 👶 Compatibility with V.Smile Baby.
+- 👶 Compatibility with V.Smile Baby
 
-- 🐧 Linux port.
+- 🐧 Linux port
 
-- 🤖 Android port.
+- 🤖 Android port
 
-- ⚙️ More configurable settings.
+- ⚙️ More configurable settings
 
 **V.Dream is an independent project of FODSOFT™ and is not affiliated with, endorsed by, or in any way connected to VTech® or any of its subsidiaries or affiliates. This software is created solely as a tribute to a classic educational console experience and is intended for preservation and educational purposes.**
 
