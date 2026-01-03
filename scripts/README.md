@@ -28,7 +28,7 @@ Create a V.Dream shortcut on the desktop and in the Start Menu.
 ## **=>** V.Dream Integrity Checker `VDREAM_CHECKER.PS1`:
 
 ### 💡 What is its purpose
-Verify that your V.Dream installation is not corrupted and that no files are missing.
+Verify that your V.Dream installation is not corrupted and that no files and dependencies are missing.
 
 ### 🛠️ How to use
 1. Download the file ***VDREAM_CHECKER.PS1*** to any folder on your computer.
