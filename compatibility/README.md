@@ -30,7 +30,7 @@
 
 - ***Bob the Builder: Bob's Busy Day*** - 🎲 No tested
 
-- ***Care Bears: A Lesson in Caring - 🎲 No tested
+- ***Care Bears: A Lesson in Caring*** - 🎲 No tested
 
 - ***Cranium: Partyland Park*** - 🎲 No tested
 
@@ -44,9 +44,9 @@
 
 - ***Disney•Pixar Finding Nemo: Nemo's Ocean Discoveries*** - 🎲 No tested
 
-- ***Disney•Pixar Ratatouille: Remy's New Recipes - 🎲 No tested
+- ***Disney•Pixar Ratatouille: Remy's New Recipes*** - 🎲 No tested
 
-- ***Disney•Pixar Toy Story 2: Operation: Rescue Woody! - 🎲 No tested
+- ***Disney•Pixar Toy Story 2: Operation: Rescue Woody!*** - 🎲 No tested
 
 - ***Disney•Pixar Toy Story 3*** - 🎲 No tested
 
@@ -66,7 +66,7 @@
 
 - ***Disney's The Lion King: Simba's Big Adventure*** - 🎲 No tested
 
-- ***Disney's The Little Mermaid: Ariel's Majestic Journey - 🎲 No tested
+- ***Disney's The Little Mermaid: Ariel's Majestic Journey*** - 🎲 No tested
 
 - ***Disney Winnie the Pooh: The Honey Hunt*** - ✅ Playable
 
@@ -94,7 +94,7 @@
 
 - ***Nickelodeon SpongeBob SquarePants: A Day in the Life of a Sponge*** - ✅ Playable
 
-- ***Nickelodeon Wonder Pets! Save the Animals! - 🎲 No tested
+- ***Nickelodeon Wonder Pets! Save the Animals!*** - 🎲 No tested
 
 - ***Nick Jr Blue's Clues: Collection Day*** - 🎲 No tested
 
@@ -112,7 +112,7 @@
 
 - ***Scooby-Doo! Funland Frenzy*** - ✅ Playable
 
-- ***Sesame Street: Elmo's World: Elmo's Big Discoveries - ✅ Playable
+- ***Sesame Street: Elmo's World: Elmo's Big Discoveries*** - ✅ Playable
 
 - ***Superman: The Greatest Hero*** - 🎲 No tested
 
