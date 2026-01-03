@@ -10,13 +10,13 @@
 
 ## 🕹️ V.Smile / V.Smile Pocket Games
 >[!NOTE]
->Games tested: **2/63**
+>Games tested: **2/57**
 
->✅ Playable games: **2/63**
+>✅ Playable games: **2/57**
 
->👣 Boot games: **0/63**
+>👣 Boot games: **0/57**
 
->💥 Nothing games: **0/63**
+>💥 Nothing games: **0/57**
 
 - 🇺🇸 ***Alphabet Park Adventure (USA)*** - ✅ Playable
 
