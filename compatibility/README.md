@@ -1,12 +1,14 @@
 # 🗒️ V.Dream Compatibility List
-Work in progress...
->[!IMPORTANT]
->✅ **Playable:** The game runs normally and can be played without major issues.
 
->👣 **Boot:** The game starts but is not playable or crashes shortly after.
 
->💥 **Nothing**: The game does not start or show any sign of running.
+## Compatibility status types
+✅ **Playable:** The game runs normally and can be played without major issues.
 
+👣 **Boot:** The game starts but is not playable or crashes shortly after.
+
+💥 **Nothing**: The game does not start or show any sign of running.
+
+## 🕹️ V.Smile / V.Smile Pocket Games
 >[!NOTE]
 >Games tested: **2/63**
 
