@@ -120,6 +120,8 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 
 **V.Dream is an independent project of FODSOFT™ and is not affiliated with, endorsed by, or in any way connected to VTech® or any of its subsidiaries or affiliates. This software is created solely as a tribute to a classic educational console experience and is intended for preservation and educational purposes.**
 
+**V.Smile® and all related trademarks are property of VTech®**
+
 ***V.DREAM DOES NOT ACCEPT DONATIONS.***
 
 **© 2025 FODSOFT™. Néo Foderé de Frutos. All rights reserved.**
