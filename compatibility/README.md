@@ -1,7 +1,7 @@
 # 🗒️ V.Dream Compatibility List
 
 
-## Compatibility status types
+## 🧮 Compatibility status types
 ✅ **Playable:** The game runs normally and can be played without major issues.
 
 👣 **Boot:** The game starts but is not playable or crashes shortly after.
