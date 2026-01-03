@@ -44,7 +44,7 @@ Verify that your V.Dream installation is not corrupted and that no files are mis
 > [!IMPORTANT]
 >If the version shown in the output next to OK does not match your version, it's a bad sign even if it says OK.
 
-## **=>** Corrupted image files Deleter for V.Dream `CORRUPTED_IMAGES_DELETER.PS1`:
+## **=>** Corrupted image files Deleter for V.Dream v.1.0 `CORRUPTED_IMAGES_DELETER.PS1`:
 
 ### 💡 What is its purpose
 Delete corrupted image files that prevent V.Dream from launching in v.1.0.
