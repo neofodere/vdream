@@ -124,9 +124,9 @@
 
 - ***Thomas & Friends: Engines Working Together*** - 🎲 No tested
 
-- ***V.Smile: Art Studio*** - 💥 Nothing
+- ***V.Smile: Art Studio*** - 👣 Boot
 
-- ***V.Smile: PC Pal Island*** - 👣 Boot
+- ***V.Smile: PC Pal Island*** - 💥 Nothing
 
 - ***V.Smile: Soccer Challenge*** - 🎲 No tested
 
