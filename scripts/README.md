@@ -47,7 +47,7 @@ Verify that your V.Dream installation is not corrupted and that no files are mis
 ## **=>** Corrupted image files Deleter for V.Dream `CORRUPTED_IMAGES_DELETER.PS1`:
 
 ### 💡 What is its purpose
-Delete corrupted image files that prevent V.Dream from launching.
+Delete corrupted image files that prevent V.Dream from launching in v.1.0.
 
 ### 🛠️ How to use
 1. Download the file ***CORRUPTED_IMAGES_DELETER.PS1*** to any folder on your computer if you installed V.Dream, or to the V.Dream folder if you are using the portable version.
