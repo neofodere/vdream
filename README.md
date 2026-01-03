@@ -94,6 +94,16 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 
 `unins000.dat`: Data file used by the uninstaller to track installed files.
 
+## 🗒️ Planned features
+### 🔊 Improved audio
+
+### 💿 Compatibility with V.Flash/V.Smile Pro
+
+### 👶 Compatibility with V.Smile Baby
+
+### 🐧 Linux port
+
+### 🤖 Android port
 
 **V.Dream is an independent project of FODSOFT™ and is not affiliated with, endorsed by, or in any way connected to VTech® or any of its subsidiaries or affiliates. This software is created solely as a tribute to a classic educational console experience and is intended for preservation and educational purposes.**
 
