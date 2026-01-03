@@ -60,5 +60,6 @@ Delete corrupted image files that prevent V.Dream from launching in v.1.0.
 
 5. The script will delete all corrupted images found in your \covers folders (if they exist).
 
-**© 2025 FODSOFT™. Néo Foderé de Frutos. All rights reserved.**
+**© 2026 FODSOFT™. Néo Foderé de Frutos. All rights reserved.**
+
 <!-- FODSOFT(TM). Neo Fodere de Frutos. All rights reserved. -->
