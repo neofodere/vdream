@@ -94,6 +94,13 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 
 `unins000.dat`: Data file used by the uninstaller to track installed files.
 
+## 🌍 Supported languages
+- 🇺🇸 English - ✅ 100% (Completed)
+
+- 🇪🇸 Spanish - ✅ 100% (Completed)
+
+- 🇫🇷 French - ✅ 100% (Completed)
+
 ## 🗒️ Planned features
 
 >[!NOTE]
