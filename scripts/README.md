@@ -66,11 +66,11 @@ Inserts the "VTECH" signature into unsigned V.Smile ROMs, allowing V.Dream to de
 
 4. Run the script with basic command: `powershell -ExecutionPolicy Bypass -File .\INSERT_SIGN.PS1 -rom "C:\path\to\your\rom.bin"`
 
-  4.1. If you want to force ASCII explicity: `powershell -ExecutionPolicy Bypass -File .\INSERT_SIGN.PS1 -rom "C:\path\to\your\rom.bin" -encode "ascii"`
+- 4.1. If you want to force ASCII explicity: `powershell -ExecutionPolicy Bypass -File .\INSERT_SIGN.PS1 -rom "C:\path\to\your\rom.bin" -encode "ascii"`
 
-  4.2. If you want to insert the signature in unicode instead: `powershell -ExecutionPolicy Bypass -File .\INSERT_SIGN.PS1 -rom "C:\path\to\your\rom.bin" -encode "unicode"`
+- 4.2. If you want to insert the signature in unicode instead: `powershell -ExecutionPolicy Bypass -File .\INSERT_SIGN.PS1 -rom "C:\path\to\your\rom.bin" -encode "unicode"`
 
-  4.3. Optionally, you can specify an outuput file. If you don't, the script will create a new file with .signed added to the original name: `powershell -ExecutionPolicy Bypass -File .\INSERT_SIGN.PS1 -rom "C:\path\to\your\rom.bin" -output "C:\path\to\signed_rom.bin`
+- 4.3. Optionally, you can specify an outuput file. If you don't, the script will create a new file with .signed added to the original name: `powershell -ExecutionPolicy Bypass -File .\INSERT_SIGN.PS1 -rom "C:\path\to\your\rom.bin" -output "C:\path\to\signed_rom.bin`
 
 5. The script will search for a free block of **0x00** bytes inside the ROM and insert the string "VTECH" in the chosen encoding (ASCII or Unicode). V.Dream normally accepts both formats.
 
