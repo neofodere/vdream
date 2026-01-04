@@ -55,27 +55,27 @@ Inserts the "VTECH" signature into unsigned V.Smile ROMs, allowing V.Dream to de
 >The script makes a copy and does not touch the original file.
 
 >[!WARNING]
->Use this script only if you are sure the ROM is correctly dumped and it doesn't corrupted.
+>Use this script only if you are sure the ROM is correctly dumped and it isn't corrupted.
 
 ### 🛠️ How to use
 1. Download the file ***INSERT_SIGN.PS1*** to any folder on your computer.
 
 2. Open Windows PowerShell.
 
-3. Go to the folder wherenthe script is located.
+3. Go to the folder where the script is located.
 
 4. Run the script with basic command: `powershell -ExecutionPolicy Bypass -File .\INSERT_SIGN.PS1 -rom "C:\path\to\your\rom.bin"`
 
-- 4.1. If you want to force ASCII explicity: `powershell -ExecutionPolicy Bypass -File .\INSERT_SIGN.PS1 -rom "C:\path\to\your\rom.bin" -encode "ascii"`
+- 4.1. If you want to force ASCII explicitly: `powershell -ExecutionPolicy Bypass -File .\INSERT_SIGN.PS1 -rom "C:\path\to\your\rom.bin" -encode "ascii"`
 
-- 4.2. If you want to insert the signature in unicode instead: `powershell -ExecutionPolicy Bypass -File .\INSERT_SIGN.PS1 -rom "C:\path\to\your\rom.bin" -encode "unicode"`
+- 4.2. If you want to insert the signature in Unicode instead: `powershell -ExecutionPolicy Bypass -File .\INSERT_SIGN.PS1 -rom "C:\path\to\your\rom.bin" -encode "unicode"`
 
-- 4.3. Optionally, you can specify an outuput file. If you don't, the script will create a new file with .signed added to the original name: `powershell -ExecutionPolicy Bypass -File .\INSERT_SIGN.PS1 -rom "C:\path\to\your\rom.bin" -output "C:\path\to\signed_rom.bin`
+- 4.3. Optionally, you can specify an output file. If you don't, the script will create a new file with .signed added to the original name: `powershell -ExecutionPolicy Bypass -File .\INSERT_SIGN.PS1 -rom "C:\path\to\your\rom.bin" -output "C:\path\to\signed_rom.bin`
 
 5. The script will search for a free block of **0x00** bytes inside the ROM and insert the string "VTECH" in the chosen encoding (ASCII or Unicode). V.Dream normally accepts both formats.
 
 6. At the end, you will see one of these messages:
-- ✅ Done: The signature was inserted and the patched file was saced.
+- ✅ Done: The signature was inserted and the patched file was saved.
 
 - ❌ No free space: The ROM does not contain enough consecutive **0x00** bytes to insert the signature "VTECH".
 
