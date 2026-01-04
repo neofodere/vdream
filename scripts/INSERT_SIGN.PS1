@@ -1,13 +1,11 @@
-# Insert VTech signature to a binary
+# VTech signature inserter to a binary ROM by FODSOFT(TM)
 
 param
 (
     [Parameter(Mandatory = $true)]
     [string]$entrada,
-
     [Parameter(Mandatory = $false)]
     [string]$modo = "ascii",
-
     [Parameter(Mandatory = $false)]
     [string]$salida = $null
 )
@@ -32,7 +30,6 @@ if (-not $salida)
 }
 
 [byte[]]$bin = [System.IO.File]::ReadAllBytes($entrada)
-
 if ($modo -eq "ascii") 
 {
     $firma = [System.Text.Encoding]::ASCII.GetBytes("VTECH")
@@ -48,19 +45,31 @@ $ok = $false
 for ($i = 0; $i -le $bin.Length - $len; $i++) 
 {
     $libre = $true
-    for ($j = 0; $j -lt $len; $j++) {
-        if ($bin[$i + $j] -ne 0x00) { $libre = $false; break }
+    for ($j = 0; $j -lt $len; $j++) 
+    {
+        if ($bin[$i + $j] -ne 0x00) 
+        { 
+            $libre = $false; break 
+        }
     }
-    if ($libre) {
-        for ($j = 0; $j -lt $len; $j++) { $bin[$i + $j] = $firma[$j] }
+    if ($libre) 
+    {
+        for ($j = 0; $j -lt $len; $j++) 
+        { 
+            $bin[$i + $j] = $firma[$j] 
+        }
         $ok = $true
         break
     }
 }
 
-if (-not $ok) {
+if (-not $ok) 
+{
     Write-Host "No free space" -ForegroundColor Red
-} else {
+} 
+else 
+{
     [System.IO.File]::WriteAllBytes($salida, $bin)
     Write-Host "Done" -ForegroundColor Green
 }
+# FODSOFT(TM). Neo Fodere de Frutos. All rights reserved.
