@@ -44,7 +44,7 @@ Verify that your V.Dream installation is not corrupted and that no files or depe
 > [!IMPORTANT]
 >If the version shown in the output next to OK does not match your version, it's a bad sign even if it says OK.
 
-## **=>** VTech Signature Inserter to ROM `INSERT_SIGN.PS1`:
+## **=>** VTech Signature Inserter for ROMs `INSERT_SIGN.PS1`:
 
 ### 💡 What is its purpose
 Inserts the "VTECH" signature into unsigned V.Smile ROMs, allowing V.Dream to detect them
