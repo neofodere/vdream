@@ -26,7 +26,7 @@ if (-not $output)
     $dir  = Split-Path $rom
     $nom  = [System.IO.Path]::GetFileNameWithoutExtension($rom)
     $ext  = [System.IO.Path]::GetExtension($rom)
-    $output = Join-Path $dir "$nom.patched$ext"
+    $output = Join-Path $dir "$nom.signed$ext"
 }
 
 [byte[]]$bin = [System.IO.File]::ReadAllBytes($rom)
