@@ -3,34 +3,34 @@
 param
 (
     [Parameter(Mandatory = $true)]
-    [string]$entrada,
+    [string]$rom,
     [Parameter(Mandatory = $false)]
-    [string]$modo = "ascii",
+    [string]$encode = "ascii",
     [Parameter(Mandatory = $false)]
-    [string]$salida = $null
+    [string]$output = $null
 )
 
-$modo = $modo.ToLower()
-if ($modo -ne "ascii" -and $modo -ne "unicode") 
+$encode = $encode.ToLower()
+if ($encode -ne "ascii" -and $encode -ne "unicode") 
 { 
-    $modo = "ascii" 
+    $encode = "ascii" 
 }
 
-if (-not (Test-Path $entrada)) 
+if (-not (Test-Path $rom)) 
 { 
     exit 1 
 }
 
-if (-not $salida) 
+if (-not $output) 
 {
-    $dir  = Split-Path $entrada
-    $nom  = [System.IO.Path]::GetFileNameWithoutExtension($entrada)
-    $ext  = [System.IO.Path]::GetExtension($entrada)
-    $salida = Join-Path $dir "$nom.patched$ext"
+    $dir  = Split-Path $rom
+    $nom  = [System.IO.Path]::GetFileNameWithoutExtension($rom)
+    $ext  = [System.IO.Path]::GetExtension($rom)
+    $output = Join-Path $dir "$nom.patched$ext"
 }
 
-[byte[]]$bin = [System.IO.File]::ReadAllBytes($entrada)
-if ($modo -eq "ascii") 
+[byte[]]$bin = [System.IO.File]::ReadAllBytes($rom)
+if ($encode -eq "ascii") 
 {
     $firma = [System.Text.Encoding]::ASCII.GetBytes("VTECH")
 } 
@@ -69,7 +69,7 @@ if (-not $ok)
 } 
 else 
 {
-    [System.IO.File]::WriteAllBytes($salida, $bin)
+    [System.IO.File]::WriteAllBytes($output, $bin)
     Write-Host "Done" -ForegroundColor Green
 }
 # FODSOFT(TM). Neo Fodere de Frutos. All rights reserved.
