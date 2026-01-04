@@ -1,4 +1,4 @@
-# V.Dream Helper Scripts
+# 📜 V.Dream Helper Scripts
 ![](../images/logo_vdream_helper_scripts.png)
 
 >[!NOTE]
@@ -44,6 +44,14 @@ Verify that your V.Dream installation is not corrupted and that no files or depe
 > [!IMPORTANT]
 >If the version shown in the output next to OK does not match your version, it's a bad sign even if it says OK.
 
+## **=>** VTech Signature Inserter to ROM `INSERT_SIGN.PS1`:
+
+### 💡 What is its purpose
+Inserts the "VTECH" signature into unsigned V.Smile ROMs, allowing V.Dream to detect them
+
+### 🛠️ How to use
+
+
 ## **=>** Corrupted image files Deleter for V.Dream v.1.0 `CORRUPTED_IMAGES_DELETER.PS1`:
 
 ### 💡 What is its purpose
@@ -60,6 +68,6 @@ Delete corrupted image files that prevent V.Dream from launching in v.1.0.
 
 5. The script will delete all corrupted images found in your \covers folders (if they exist).
 
-**© 2026 FODSOFT™. Néo Foderé de Frutos. All rights reserved.**
 
+**© 2026 FODSOFT™. Néo Foderé de Frutos. All rights reserved.**
 <!-- FODSOFT(TM). Neo Fodere de Frutos. All rights reserved. -->
