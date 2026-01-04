@@ -1,4 +1,4 @@
-# VTech signature inserter to a binary ROM by FODSOFT(TM)
+# VTech Signature Inserter for ROMs by FODSOFT(TM)
 
 param
 (
