@@ -163,7 +163,7 @@
 
 
 ## 🎮 V.Flash / V.Smile Pro
-<img src="https://static.wikia.nocookie.net/vtech9471/images/5/54/Vflash-console.png/" width="421" height="352">
+<img src="https://static.wikia.nocookie.net/vtech9471/images/5/54/Vflash-console.png/" width="371" height="302">
 
 >[!CAUTION]
 >This platform is not supported yet.
