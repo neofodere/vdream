@@ -75,10 +75,10 @@ Clavier              | V.Smile
 [S], [↓]             | ⬇️ Descendre
 [D], [→]             | ➡️ Aller à droite
 [Espace]             | ✔️ ENTER / OK
-[Z]                  | 🔴 Rouge
+[W]                  | 🔴 Rouge
 [X]                  | 🟡 Jaune
-[C]                  | 🔵 Bleu
-[V]                  | 🟢 Vert
+[V]                  | 🔵 Bleu
+[C]                  | 🟢 Vert
 [E]                  | ❔ Aide
 [A]                  | ❌ Quitter
 [Entrée]             | 🔤 ABC
