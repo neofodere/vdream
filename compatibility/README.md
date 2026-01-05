@@ -47,23 +47,23 @@
 
 - ***Care Bears: A Lesson in Caring*** - ✅ Playable
 
-- ***Cranium: Partyland Park*** - 🎲 Not tested
+- ***Cranium: Partyland Park*** - ✅ Playable
 
 - ***Disney Fairies: Tinker Bell*** - ✅ Playable
 
 - ***Disney Mickey Mouse: Clubhouse*** - ✅ Playable
 
-- ***Disney•Pixar Cars 2*** - 🎲 Not tested
+- ***Disney•Pixar Cars 2*** - 💥 Nothing
 
 - ***Disney•Pixar Cars: Rev It Up in Radiator Springs*** - ✅ Playable
 
 - ***Disney•Pixar Finding Nemo: Nemo's Ocean Discoveries*** - ✅ Playable
 
-- ***Disney•Pixar Ratatouille: Remy's New Recipes*** - 🎲 Not tested
+- ***Disney•Pixar Ratatouille: Remy's New Recipes*** - ✅ Playable
 
 - ***Disney•Pixar Toy Story 2: Operation: Rescue Woody!*** - ✅ Playable
 
-- ***Disney•Pixar Toy Story 3*** - 🎲 Not tested
+- ***Disney•Pixar Toy Story 3*** - 💥 Nothing
 
 - ***Disney•Pixar Up*** - ✅ Playable
 
@@ -91,7 +91,7 @@
 
 - ***DreamWorks Shrek: Dragon's Tale*** - ✅ Playable
 
-- ***DreamWorks Shrek: Forever After*** - 🎲 Not tested
+- ***DreamWorks Shrek: Forever After*** - 💥 Nothing
 
 - ***DreamWorks Shrek the Third: Arthur's School Day Adventure*** - ✅ Playable
 
