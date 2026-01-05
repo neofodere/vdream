@@ -26,13 +26,13 @@
 >The games were tested with the V.Smile v103 BIOS.
 
 >[!NOTE]
->Games tested: **21/62**
+>Games tested: **62/62**
 
->✅ Playable games: **17/62**
+>✅ Playable games: **50/62**
 
->👣 Boot games: **1/62**
+>👣 Boot games: **2/62**
 
->💥 Nothing games: **3/62**
+>💥 Nothing games: **10/62**
 
 
 - ***Action Mania*** - ✅ Playable
