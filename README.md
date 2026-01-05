@@ -6,14 +6,16 @@
 >[!NOTE]
 >V.Dream is a long-term project, and it will keep evolving over time. In the future, it aims to emulate the entire V.Smile family.
 
-V.Dream is a V.Smile emulator developed by **Néo Foderé de Frutos** under the **FODSOFT™** brand and written in `C`, `C#`, and `XAML`. The V.Dream core is based on V.Frown, an emulator originally developed by **Ian (Schnert0)** and other contributors.<br>
+V.Dream is a V.Smile emulator developed by **Néo Foderé de Frutos** under the **FODSOFT™** brand and written in `C`, `C#`, and `XAML`. The V.Dream core is based on V.Frown, an emulator originally developed by **Ian (Schnert0)** and other contributors.
 
-With V.Dream, you can play and relive the games from your childhood or discover them for the first time, develop your own software with instructions for the emulated hardware, among other features. It should be noted that neither FODSOFT™ nor V.Dream provide ROMs or any other means that facilitate piracy; the only thing FODSOFT™ offers is software that simulates the hardware of that era so the games can run on modern devices.<br>
+With V.Dream, you can play and relive the games from your childhood or discover them for the first time, develop your own software with instructions for the emulated hardware, among other features. It should be noted that neither FODSOFT™ nor V.Dream provide ROMs or any other means that facilitate piracy; the only thing FODSOFT™ offers is software that simulates the hardware of that era so the games can run on modern devices.
 
 ## 💾 Downloads
 ### 🌐 `from resources.fodsoft.com`
-[Download the installer](https://resources.fodsoft.com/downloads/vdream-win-installer)<br>
-[Download the portable version (x64)](https://resources.fodsoft.com/downloads/vdream-win-x64-portable)<br>
+[Download the installer](https://resources.fodsoft.com/downloads/vdream-win-installer)
+
+[Download the portable version (x64)](https://resources.fodsoft.com/downloads/vdream-win-x64-portable)
+
 [Download the portable version (x86)](https://resources.fodsoft.com/downloads/vdream-win-x86-portable)
 
 ### 🧭 `Other download options`
@@ -66,10 +68,10 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 | [.]                  | Load state       |
 
 ## 📸 Screenshots
-<img src="images/vdream_screenshot_01.png" width="512" height="288"><br>
-<img src="images/vdream_screenshot_02.png" width="512" height="288"><br>
-<img src="images/vdream_screenshot_03.png" width="512" height="288"><br>
-<img src="images/vdream_screenshot_04.png" width="512" height="288"><br>
+<img src="images/vdream_screenshot_01.png" width="512" height="288">
+<img src="images/vdream_screenshot_02.png" width="512" height="288">
+<img src="images/vdream_screenshot_03.png" width="512" height="288">
+<img src="images/vdream_screenshot_04.png" width="512" height="288">
 
 ## 🖼️ Gameplay GIFs
 
