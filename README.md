@@ -37,6 +37,9 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 
 4. Or go to `System -> Run cartridge` to launch a game directly.<br> <img src="images/vdream_tuto_02.png" width="432" height="328">
 
+>[!TIP]
+>If V.Dream does not recognize a ROM as valid and you are sure it is valid and not corrupted, try signing the ROM with my script `scripts/INSERT_SIGN.PS1`. This script inserts the VTech signature into an empty space in the ROM so that the emulator can detect it. To use the script, follow the instructions in the README file inside the `scripts/` folder in the project's GitHub.
+
 5. Now you can play, but some games require an official BIOS file. To import it, go to `Settings -> Paths -> BIOS -> Select BIOS`, or try to launch a game that requires a BIOS file and press `Import BIOS`.<br> <img src="images/vdream_tuto_03.png" width="432" height="328">
 
 6. If you want a smoother output image, change the setting from `Settings -> Graphics -> Image mode -> Smoothing (Linear)`.<br> <img src="images/vdream_tuto_04.png" width="423.5" height="310.5">
