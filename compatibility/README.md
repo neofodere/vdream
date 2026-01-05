@@ -10,7 +10,7 @@
 
 🎲 **No tested**: The game has not been tested yet; it may work or it may not.
 
-## 🕹️ V.Smile / V.Smile Pocket / V.Smile Cyber Pocket / V.Smile Motion Games
+## 🕹️ `V.Smile` / `V.Smile Pocket` / |V.Smile Cyber Pocket` / `V.Smile Motion` Games
 >[!NOTE]
 >Games tested: **10/62**
 
@@ -134,10 +134,10 @@
 
 - ***Zayzoo: My Alien Classmate*** - 🎲 No tested
 
-## 🎮 V.Flash / V.Smile Pro Games
+## 🎮 `V.Flash / V.Smile Pro` Games
 ***Not supported yet***
 
-## 🌜 V.Smile Baby Games
+## 🌜 `V.Smile Baby` Games
 ***Not supported yet***
 
 <!-- FODSOFT(TM). Neo Fodere de Frutos. All rights reserved. -->
