@@ -27,6 +27,9 @@
 >[!IMPORTANT]
 >Many games require an original BIOS to run. These tests were performed using the V.Smile v103 BIOS.
 
+>[!TIP]
+>If V.Dream does not recognize a ROM as valid and you are sure it is valid and not corrupted, try signing the ROM with my script `scripts/INSERT_SIGN.PS1`. This script inserts the VTech signature into a empty space in the ROM so that the emulator can detect it. To use the script, follow the instructions in the README file, inside the `scripts/` folder in the project's GitHub.
+
 >[!NOTE]
 >Games tested: **62/62**
 
