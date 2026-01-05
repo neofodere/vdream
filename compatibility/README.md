@@ -242,7 +242,7 @@
 - ***Time For Teletubbies*** - 🎲 Not tested
 
 ### Accessories:
-
+- ***V.Smile Baby Activity Panel*** - ❌ Not supported
 
 ## 🖥️ V.Smile TV New Generation
 ***V.Dream does not support this system.***
