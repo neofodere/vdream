@@ -22,14 +22,17 @@
 <img src="https://static.wikia.nocookie.net/vtech9471/images/f/fb/Vsmile-console-gen1.jpg/">
 
 ### Games:
->[!NOTE]
->Games tested: **10/62**
+>[!IMPORTANT]
+>The games were tested with the V.Smile v103 BIOS.
 
->✅ Playable games: **8/62**
+>[!NOTE]
+>Games tested: **21/62**
+
+>✅ Playable games: **17/62**
 
 >👣 Boot games: **1/62**
 
->💥 Nothing games: **1/62**
+>💥 Nothing games: **3/62**
 
 - ***Action Mania*** - 🎲 Not tested
 
@@ -39,7 +42,7 @@
 
 - ***Bert & Ernie's Imagination Adventure*** - ✅ Playable
 
-- ***Bob the Builder: Bob's Busy Day*** - 🎲 Not tested
+- ***Bob the Builder: Bob's Busy Day*** - ✅ Playable
 
 - ***Care Bears: A Lesson in Caring*** - 🎲 Not tested
 
@@ -53,21 +56,21 @@
 
 - ***Disney•Pixar Cars: Rev It Up in Radiator Springs*** - 🎲 Not tested
 
-- ***Disney•Pixar Finding Nemo: Nemo's Ocean Discoveries*** - 🎲 Not tested
+- ***Disney•Pixar Finding Nemo: Nemo's Ocean Discoveries*** - ✅ Playable
 
 - ***Disney•Pixar Ratatouille: Remy's New Recipes*** - 🎲 Not tested
 
-- ***Disney•Pixar Toy Story 2: Operation: Rescue Woody!*** - 🎲 Not tested
+- ***Disney•Pixar Toy Story 2: Operation: Rescue Woody!*** - ✅ Playable
 
 - ***Disney•Pixar Toy Story 3*** - 🎲 Not tested
 
 - ***Disney•Pixar Up*** - 🎲 Not tested
 
-- ***Disney•Pixar Wall-E*** - 🎲 Not tested
+- ***Disney•Pixar Wall-E*** - ✅ Playable
 
 - ***Disney Princess: The Princess and the Frog: Tiana's Big Dream*** - 🎲 Not tested
 
-- ***Disney's Aladdin: Aladdin's Wonders of the World*** - 🎲 Not tested
+- ***Disney's Aladdin: Aladdin's Wonders of the World*** - ✅ Playable
 
 - ***Disney's Cinderella: Cinderella's Magic Wishes*** - 🎲 Not tested
 
@@ -77,11 +80,11 @@
 
 - ***Disney's The Lion King: Simba's Big Adventure*** - 🎲 Not tested
 
-- ***Disney's The Little Mermaid: Ariel's Majestic Journey*** - 🎲 Not tested
+- ***Disney's The Little Mermaid: Ariel's Majestic Journey*** - 💥 Nothing
 
 - ***Disney Winnie the Pooh: The Honey Hunt*** - ✅ Playable
 
-- ***DreamWorks Kung Fu Panda: Path of the Panda*** - 🎲 Not tested
+- ***DreamWorks Kung Fu Panda: Path of the Panda*** - ✅ Playable
 
 - ***DreamWorks Monsters vs Aliens*** - 🎲 Not tested
 
@@ -89,7 +92,7 @@
 
 - ***DreamWorks Shrek: Forever After*** - 🎲 Not tested
 
-- ***DreamWorks Shrek the Third: Arthur's School Day Adventure*** - 🎲 Not tested
+- ***DreamWorks Shrek the Third: Arthur's School Day Adventure*** - ✅ Playable
 
 - ***Handy Manny*** - 🎲 Not tested
 
@@ -97,11 +100,11 @@
 
 - ***Lil' Bratz: Friends, Fashion and Fun*** - 🎲 Not tested
 
-- ***Marvel Spider-Man & Friends: Secret Missions*** - 🎲 Not tested
+- ***Marvel Spider-Man & Friends: Secret Missions*** - 💥 Nothing
 
-- ***NASCAR Academy: Race Car Superstar*** - 🎲 Not tested
+- ***NASCAR Academy: Race Car Superstar*** - 👣 Boot
 
-- ***Nickelodeon Ni Hao, Kai-Lan: Happy Chinese New Year!*** - 🎲 Not tested
+- ***Nickelodeon Ni Hao, Kai-Lan: Happy Chinese New Year!*** - ✅ Playable
 
 - ***Nickelodeon SpongeBob SquarePants: A Day in the Life of a Sponge*** - ✅ Playable
 
@@ -109,13 +112,13 @@
 
 - ***Nick Jr Blue's Clues: Collection Day*** - 🎲 Not tested
 
-- ***Nick Jr Dora the Explorer: Dora's Fix-it Adventure*** - 🎲 Not tested
+- ***Nick Jr Dora the Explorer: Dora's Fix-it Adventure*** - ✅ Playable
 
-- ***Nick Jr Go Diego Go! Save the Animal Families!*** - 🎲 Not tested
+- ***Nick Jr Go Diego Go! Save the Animal Families!*** - ✅ Playable
 
-- ***Nick Jr The Backyardigans: Viking Voyage*** - 🎲 Not tested
+- ***Nick Jr The Backyardigans: Viking Voyage*** - ✅ Playable
 
-- ***Nick Jr. Wow! Wow! Wubbzy!*** - 🎲 Not tested
+- ***Nick Jr. Wow! Wow! Wubbzy!*** - ✅ Playable
 
 - ***Noddy: Detective for a Day*** - 🎲 Not tested
 
@@ -125,25 +128,25 @@
 
 - ***Sesame Street: Elmo's World: Elmo's Big Discoveries*** - ✅ Playable
 
-- ***Superman: The Greatest Hero*** - 🎲 Not tested
+- ***Superman: The Greatest Hero*** - ✅ Playable
 
-- ***The Adventures of Little Red Riding Hood*** - 🎲 Not tested
+- ***The Adventures of Little Red Riding Hood*** - 💥 Nothing
 
-- ***The Batman: Gotham City Rescue*** - 🎲 Not tested
+- ***The Batman: Gotham City Rescue*** - ✅ Playable
 
 - ***The Wiggles: It's Wiggle Time!*** - 🎲 Not tested
 
-- ***Thomas & Friends: Engines Working Together*** - 🎲 Not tested
+- ***Thomas & Friends: Engines Working Together*** - ✅ Playable
 
 - ***V.Smile: Art Studio*** - 👣 Boot
 
-- ***V.Smile: PC Pal Island*** - 💥 Nothing
+- ***V.Smile: PC Pal Island*** - 👣 Boot
 
 - ***V.Smile: Soccer Challenge*** - 🎲 Not tested
 
-- ***Zayzoo: An Earth Adventure*** - 🎲 Not tested
+- ***Zayzoo: An Earth Adventure*** - ✅ Playable
 
-- ***Zayzoo: My Alien Classmate*** - 🎲 Not tested
+- ***Zayzoo: My Alien Classmate*** - 💥 Nothing
 
 
 ### Accessories:
