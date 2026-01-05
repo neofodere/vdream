@@ -28,11 +28,11 @@
 >[!NOTE]
 >Games tested: **62/62**
 
->✅ Playable games: **50/62**
+>✅ Playable games: **52/62**
 
 >👣 Boot games: **2/62**
 
->💥 Nothing games: **10/62**
+>💥 Nothing games: **8/62**
 
 
 - ***Action Mania*** - ✅ Playable
@@ -81,7 +81,7 @@
 
 - ***Disney's The Lion King: Simba's Big Adventure*** - 💥 Nothing
 
-- ***Disney's The Little Mermaid: Ariel's Majestic Journey*** - 💥 Nothing
+- ***Disney's The Little Mermaid: Ariel's Majestic Journey*** - ✅ Playable
 
 - ***Disney Winnie the Pooh: The Honey Hunt*** - ✅ Playable
 
@@ -147,7 +147,7 @@
 
 - ***Zayzoo: An Earth Adventure*** - ✅ Playable
 
-- ***Zayzoo: My Alien Classmate*** - 💥 Nothing
+- ***Zayzoo: My Alien Classmate*** - ✅ Playable
 
 
 ### Accessories:
