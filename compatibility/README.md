@@ -145,19 +145,19 @@
 - ***Zayzoo: My Alien Classmate*** - 🎲 No tested
 
 ### Accesories:
-- V.Smile Joystick - ✅ Supported
+- ***V.Smile Joystick*** - ✅ Supported
 
-- V.Smile Smartbook - ❌ Not supported
+- ***V.Smile Smartbook*** - ❌ Not supported
 
-- V.Smile Smart Keyboard - ❌ Not supported
+- ***V.Smile Smart Keyboard*** - ❌ Not supported
 
-- V.Smile Jammin' Gym Class - ❌ Not supported
+- ***V.Smile Jammin' Gym Class*** - ❌ Not supported
 
-- V.Smile V.Link - ❌ Not supported
+- ***V.Smile V.Link*** - ❌ Not supported
 
-- V.Smile Art Studio - ❌ Not supoorted
+- ***V.Smile Art Studio*** - ❌ Not supoorted
 
-- V.Smile PC Pal - ❌ Not supported
+- ***V.Smile PC Pal*** - ❌ Not supported
 
 
 ## 🎮 V.Flash / V.Smile Pro
