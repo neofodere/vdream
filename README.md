@@ -4,7 +4,7 @@
 <img src="images/logo_vdream.png" width="600" height="450"><br>
 
 >[!NOTE]
->V.Dream is a long-term project, meaning it will be continue to evolve over time.
+>V.Dream is a long-term project, and it will keep evolving over time. In the future, it aims to emulate the entire V.Smile family.
 
 V.Dream is a V.Smile emulator developed by **Néo Foderé de Frutos** under the **FODSOFT™** brand and written in `C`, `C#`, and `XAML`. The V.Dream core is based on V.Frown, an emulator originally developed by **Ian (Schnert0)** and other contributors.<br>
 
