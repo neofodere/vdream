@@ -54,7 +54,7 @@ Inserts the "VTECH" signature into unsigned V.Smile ROMs, allowing V.Dream to de
 >[!NOTE]
 >The script makes a copy and does not touch the original file.
 
->[!WARNING]
+>[!CAUTION]
 >Use this script only if you are sure the ROM is correctly dumped and it isn't corrupted.
 
 ### 🛠️ How to use
