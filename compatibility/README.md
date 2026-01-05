@@ -163,7 +163,7 @@
 
 
 ## 🎮 V.Flash / V.Smile Pro
-<img src="https://static.wikia.nocookie.net/vtech9471/images/5/54/Vflash-console.png/">
+<img src="https://static.wikia.nocookie.net/vtech9471/images/5/54/Vflash-console.png/" width="521" height="452">
 
 >[!CAUTION]
 >This platform is not supported yet.
@@ -207,7 +207,7 @@
 
 
 ## 🌜 V.Smile Baby
-<img src="https://static.wikia.nocookie.net/vtech9471/images/4/43/Vsmilebaby-console.jpg/">
+<img src="https://static.wikia.nocookie.net/vtech9471/images/4/43/VSmilebaby-console.jpg/">
 
 >[!CAUTION]
 >This platform is not supported yet.
