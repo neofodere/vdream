@@ -18,7 +18,7 @@
 ❌ **Not supported**: V Dream does not emulate the accesory, or it doesn't emulate it correctly.
 
 
-## 🕹️ `V.Smile` / `V.Smile Pocket` / `V.Smile Cyber Pocket` / `V.Smile Motion`
+## 🕹️ V.Smile, V.Smile Pocket, V.Smile Cyber Pocket, V.Smile Motion
 
 ### Games:
 >[!NOTE]
@@ -160,13 +160,13 @@
 - V.Smile PC Pal - ❌ Not supported
 
 
-## 🎮 `V.Flash / V.Smile Pro` Games
+## 🎮 V.Flash / V.Smile Pro
 ***Not supported yet***
 
-## 🌜 `V.Smile Baby` Games
+## 🌜 V.Smile Baby
 ***Not supported yet***
 
-## 🖥️ `V.Smile TV New Generation`
+## 🖥️ V.Smile TV New Generation
 ***V.Dream does not support this system.***
 
 <!-- FODSOFT(TM). Neo Fodere de Frutos. All rights reserved. -->
