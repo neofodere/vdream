@@ -3,7 +3,7 @@
 
 ## 🧮 Compatibility status types
 
-### Games
+### Games:
 ✅ **Playable:** The game runs normally and can be played without major issues.
 
 👣 **Boot:** The game starts but is not playable or crashes shortly after.
@@ -12,7 +12,7 @@
 
 🎲 **No tested**: The game has not been tested yet; it may work or it may not.
 
-### Accesories
+### Accesories:
 ✅ **Supported**: V.Dream emulates the accesory and can be used with the games.
 
 ❌ **Not supported**: V Dream does not emulate the accesory, or it doesn't emulate it correctly.
@@ -20,7 +20,7 @@
 
 ## 🕹️ `V.Smile` / `V.Smile Pocket` / `V.Smile Cyber Pocket` / `V.Smile Motion`
 
-### Games
+### Games:
 >[!NOTE]
 >Games tested: **10/62**
 
@@ -144,7 +144,7 @@
 
 - ***Zayzoo: My Alien Classmate*** - 🎲 No tested
 
-### Accesories
+### Accesories:
 - V.Smile Joystick - ✅ Supported
 
 - V.Smile Smartbook - ❌ Not supported
