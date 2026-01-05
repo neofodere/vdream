@@ -223,7 +223,7 @@
 
 - ***Bailey Goes to Town*** - 🎲 Not tested
 
-- ***Barney: Let's Go To A Party*** - 🎲 Not tested
+- ***Barney: Let's Go To A Party!*** - 🎲 Not tested
 
 - ***Care Bears Care-A-Lot Park*** - 🎲 Not tested
 
