@@ -80,7 +80,7 @@ Clavier              | V.Smile
 [C]                  | 🔵 Bleu
 [V]                  | 🟢 Vert
 [E]                  | ❔ Aide
-[Q]                  | ❌ Quitter
+[A]                  | ❌ Quitter
 [Entrée]             | 🔤 ABC
 
 
