@@ -248,4 +248,5 @@
 ## 🖥️ V.Smile TV New Generation
 ***V.Dream does not support this system.***
 
+**© 2026 FODSOFT™. Néo Foderé de Frutos. All rights reserved.**
 <!-- FODSOFT(TM). Neo Fodere de Frutos. All rights reserved. -->
