@@ -70,8 +70,8 @@ COMMANDES DU JEU DU V.DREAM:
 
 Clavier              | V.Smile
 ---------------------|-----------------------
-[W], [↑]             | ⬆️ Monter
-[A], [←]             | ⬅️ Aller à gauche
+[Z], [↑]             | ⬆️ Monter
+[Q], [←]             | ⬅️ Aller à gauche
 [S], [↓]             | ⬇️ Descendre
 [D], [→]             | ➡️ Aller à droite
 [Espace]             | ✔️ ENTER / OK
