@@ -34,27 +34,28 @@
 
 >💥 Nothing games: **3/62**
 
-- ***Action Mania*** - 🎲 Not tested
+
+- ***Action Mania*** - ✅ Playable
 
 - ***Alphabet Park Adventure*** - ✅ Playable
 
-- ***Barney: The Land of Make Believe*** - 🎲 Not tested
+- ***Barney: The Land of Make Believe*** - ✅ Playable
 
 - ***Bert & Ernie's Imagination Adventure*** - ✅ Playable
 
 - ***Bob the Builder: Bob's Busy Day*** - ✅ Playable
 
-- ***Care Bears: A Lesson in Caring*** - 🎲 Not tested
+- ***Care Bears: A Lesson in Caring*** - ✅ Playable
 
 - ***Cranium: Partyland Park*** - 🎲 Not tested
 
-- ***Disney Fairies: Tinker Bell*** - 🎲 Not tested
+- ***Disney Fairies: Tinker Bell*** - ✅ Playable
 
 - ***Disney Mickey Mouse: Clubhouse*** - ✅ Playable
 
 - ***Disney•Pixar Cars 2*** - 🎲 Not tested
 
-- ***Disney•Pixar Cars: Rev It Up in Radiator Springs*** - 🎲 Not tested
+- ***Disney•Pixar Cars: Rev It Up in Radiator Springs*** - ✅ Playable
 
 - ***Disney•Pixar Finding Nemo: Nemo's Ocean Discoveries*** - ✅ Playable
 
@@ -64,21 +65,21 @@
 
 - ***Disney•Pixar Toy Story 3*** - 🎲 Not tested
 
-- ***Disney•Pixar Up*** - 🎲 Not tested
+- ***Disney•Pixar Up*** - ✅ Playable
 
 - ***Disney•Pixar Wall-E*** - ✅ Playable
 
-- ***Disney Princess: The Princess and the Frog: Tiana's Big Dream*** - 🎲 Not tested
+- ***Disney Princess: The Princess and the Frog: Tiana's Big Dream*** - ✅ Playable
 
 - ***Disney's Aladdin: Aladdin's Wonders of the World*** - ✅ Playable
 
-- ***Disney's Cinderella: Cinderella's Magic Wishes*** - 🎲 Not tested
+- ***Disney's Cinderella: Cinderella's Magic Wishes*** - ✅ Playable
 
 - ***Disney's Little Einsteins*** - ✅ Playable
 
-- ***Disney's Mickey Mouse: Mickey's Magical Adventure*** - 🎲 Not tested
+- ***Disney's Mickey Mouse: Mickey's Magical Adventure*** - ✅ Playable
 
-- ***Disney's The Lion King: Simba's Big Adventure*** - 🎲 Not tested
+- ***Disney's The Lion King: Simba's Big Adventure*** - 💥 Nothing
 
 - ***Disney's The Little Mermaid: Ariel's Majestic Journey*** - 💥 Nothing
 
@@ -86,7 +87,7 @@
 
 - ***DreamWorks Kung Fu Panda: Path of the Panda*** - ✅ Playable
 
-- ***DreamWorks Monsters vs Aliens*** - 🎲 Not tested
+- ***DreamWorks Monsters vs Aliens*** - ✅ Playable
 
 - ***DreamWorks Shrek: Dragon's Tale*** - ✅ Playable
 
@@ -94,11 +95,11 @@
 
 - ***DreamWorks Shrek the Third: Arthur's School Day Adventure*** - ✅ Playable
 
-- ***Handy Manny*** - 🎲 Not tested
+- ***Handy Manny*** - ✅ Playable
 
-- ***Learnin' Wheels*** - 🎲 Not tested
+- ***Learnin' Wheels*** - 💥 Nothing
 
-- ***Lil' Bratz: Friends, Fashion and Fun*** - 🎲 Not tested
+- ***Lil' Bratz: Friends, Fashion and Fun*** - ✅ Playable
 
 - ***Marvel Spider-Man & Friends: Secret Missions*** - 💥 Nothing
 
@@ -108,9 +109,9 @@
 
 - ***Nickelodeon SpongeBob SquarePants: A Day in the Life of a Sponge*** - ✅ Playable
 
-- ***Nickelodeon Wonder Pets! Save the Animals!*** - 🎲 Not tested
+- ***Nickelodeon Wonder Pets! Save the Animals!*** - ✅ Playable
 
-- ***Nick Jr Blue's Clues: Collection Day*** - 🎲 Not tested
+- ***Nick Jr Blue's Clues: Collection Day*** - ✅ Playable
 
 - ***Nick Jr Dora the Explorer: Dora's Fix-it Adventure*** - ✅ Playable
 
@@ -120,9 +121,9 @@
 
 - ***Nick Jr. Wow! Wow! Wubbzy!*** - ✅ Playable
 
-- ***Noddy: Detective for a Day*** - 🎲 Not tested
+- ***Noddy: Detective for a Day*** - ✅ Playable
 
-- ***Scooby-Doo! A Night of Fright is no Delight*** - 🎲 Not tested
+- ***Scooby-Doo! A Night of Fright is no Delight*** - ✅ Playable
 
 - ***Scooby-Doo! Funland Frenzy*** - ✅ Playable
 
@@ -134,7 +135,7 @@
 
 - ***The Batman: Gotham City Rescue*** - ✅ Playable
 
-- ***The Wiggles: It's Wiggle Time!*** - 🎲 Not tested
+- ***The Wiggles: It's Wiggle Time!*** - ✅ Playable
 
 - ***Thomas & Friends: Engines Working Together*** - ✅ Playable
 
@@ -142,7 +143,7 @@
 
 - ***V.Smile: PC Pal Island*** - 👣 Boot
 
-- ***V.Smile: Soccer Challenge*** - 🎲 Not tested
+- ***V.Smile: Soccer Challenge*** - ✅ Playable
 
 - ***Zayzoo: An Earth Adventure*** - ✅ Playable
 
@@ -180,6 +181,7 @@
 >👣 Boot games: **0/10**
 
 >💥 Nothing games: **0/10**
+
 
 - ***Bratz Fashion Pixiez: The Secret Necklace*** - 🎲 Not tested
 
@@ -224,6 +226,7 @@
 >👣 Boot games: **0/12**
 
 >💥 Nothing games: **0/12**
+
 
 - ***A Day On The Farm*** - 🎲 Not tested
 
