@@ -1,4 +1,6 @@
 # 🗒️ V.Dream Compatibility List
+>[!NOTE]
+>Reference version: **v1.3**
 
 
 ## 🧮 Compatibility status types
@@ -23,7 +25,7 @@
 
 ### Games:
 >[!IMPORTANT]
->The games were tested with the V.Smile v103 BIOS.
+>Many games require an original BIOS to run. These tests were performed using the V.Smile v103 BIOS.
 
 >[!NOTE]
 >Games tested: **62/62**
