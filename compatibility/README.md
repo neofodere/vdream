@@ -163,6 +163,8 @@
 
 
 ## 🎮 V.Flash / V.Smile Pro
+<img src="https://static.wikia.nocookie.net/vtech9471/images/5/54/Vflash-console.png/">
+
 >[!CAUTION]
 >This platform is not supported yet.
 
@@ -205,6 +207,8 @@
 
 
 ## 🌜 V.Smile Baby
+<img src="https://static.wikia.nocookie.net/vtech9471/images/4/43/Vsmilebaby-console.jpg/">
+
 >[!CAUTION]
 >This platform is not supported yet.
 
@@ -248,6 +252,8 @@
 
 ## 🖥️ V.Smile TV New Generation
 ***V.Dream does not support this system.***
+
+**The images shown in this README are for informational purposes only. They depict VTech®-owned consoles and originate from the VTech Wiki on Fandom (vtech.fandom.com).**
 
 **© 2026 FODSOFT™. Néo Foderé de Frutos. All rights reserved.**
 <!-- FODSOFT(TM). Neo Fodere de Frutos. All rights reserved. -->
