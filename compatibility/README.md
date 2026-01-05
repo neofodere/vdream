@@ -10,7 +10,7 @@
 
 🎲 **No tested**: The game has not been tested yet; it may work or it may not.
 
-## 🕹️ V.Smile / V.Smile Motion / V.Smile Pocket / V.Smile Cyber Pocket Games
+## 🕹️ V.Smile / V.Smile Pocket / V.Smile Cyber Pocket / V.Smile Motion Games
 >[!NOTE]
 >Games tested: **10/62**
 
