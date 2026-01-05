@@ -10,12 +10,12 @@
 
 💥 **Nothing**: The game does not start or show any sign of running.
 
-🎲 **No tested**: The game has not been tested yet; it may work or it may not.
+🎲 **Not tested**: The game has not been tested yet; it may work or it may not.
 
-### Accesories:
+### Accessories:
 ✅ **Supported**: V.Dream emulates the accesory and can be used with the games.
 
-❌ **Not supported**: V Dream does not emulate the accesory, or it doesn't emulate it correctly.
+❌ **Not supported**: V.Dream does not emulate the accesory, or it doesn't emulate it correctly.
 
 
 ## 🕹️ V.Smile, V.Smile Pocket, V.Smile Cyber Pocket, V.Smile Motion
@@ -30,134 +30,135 @@
 
 >💥 Nothing games: **1/62**
 
-- ***Action Mania*** - 🎲 No tested
+- ***Action Mania*** - 🎲 Not tested
 
 - ***Alphabet Park Adventure*** - ✅ Playable
 
-- ***Barney: The Land of Make Believe*** - 🎲 No tested
+- ***Barney: The Land of Make Believe*** - 🎲 Not tested
 
 - ***Bert & Ernie's Imagination Adventure*** - ✅ Playable
 
-- ***Bob the Builder: Bob's Busy Day*** - 🎲 No tested
+- ***Bob the Builder: Bob's Busy Day*** - 🎲 Not tested
 
-- ***Care Bears: A Lesson in Caring*** - 🎲 No tested
+- ***Care Bears: A Lesson in Caring*** - 🎲 Not tested
 
-- ***Cranium: Partyland Park*** - 🎲 No tested
+- ***Cranium: Partyland Park*** - 🎲 Not tested
 
-- ***Disney Fairies: Tinker Bell*** - 🎲 No tested
+- ***Disney Fairies: Tinker Bell*** - 🎲 Not tested
 
 - ***Disney Mickey Mouse: Clubhouse*** - ✅ Playable
 
-- ***Disney•Pixar Cars 2*** - 🎲 No tested
+- ***Disney•Pixar Cars 2*** - 🎲 Not tested
 
-- ***Disney•Pixar Cars: Rev It Up in Radiator Springs*** - 🎲 No tested
+- ***Disney•Pixar Cars: Rev It Up in Radiator Springs*** - 🎲 Not tested
 
-- ***Disney•Pixar Finding Nemo: Nemo's Ocean Discoveries*** - 🎲 No tested
+- ***Disney•Pixar Finding Nemo: Nemo's Ocean Discoveries*** - 🎲 Not tested
 
-- ***Disney•Pixar Ratatouille: Remy's New Recipes*** - 🎲 No tested
+- ***Disney•Pixar Ratatouille: Remy's New Recipes*** - 🎲 Not tested
 
-- ***Disney•Pixar Toy Story 2: Operation: Rescue Woody!*** - 🎲 No tested
+- ***Disney•Pixar Toy Story 2: Operation: Rescue Woody!*** - 🎲 Not tested
 
-- ***Disney•Pixar Toy Story 3*** - 🎲 No tested
+- ***Disney•Pixar Toy Story 3*** - 🎲 Not tested
 
-- ***Disney•Pixar Up*** - 🎲 No tested
+- ***Disney•Pixar Up*** - 🎲 Not tested
 
-- ***Disney•Pixar Wall-E*** - 🎲 No tested
+- ***Disney•Pixar Wall-E*** - 🎲 Not tested
 
-- ***Disney Princess: The Princess and the Frog: Tiana's Big Dream*** - 🎲 No tested
+- ***Disney Princess: The Princess and the Frog: Tiana's Big Dream*** - 🎲 Not tested
 
-- ***Disney's Aladdin: Aladdin's Wonders of the World*** - 🎲 No tested
+- ***Disney's Aladdin: Aladdin's Wonders of the World*** - 🎲 Not tested
 
-- ***Disney's Cinderella: Cinderella's Magic Wishes*** - 🎲 No tested
+- ***Disney's Cinderella: Cinderella's Magic Wishes*** - 🎲 Not tested
 
 - ***Disney's Little Einsteins*** - ✅ Playable
 
-- ***Disney's Mickey Mouse: Mickey's Magical Adventure*** - 🎲 No tested
+- ***Disney's Mickey Mouse: Mickey's Magical Adventure*** - 🎲 Not tested
 
-- ***Disney's The Lion King: Simba's Big Adventure*** - 🎲 No tested
+- ***Disney's The Lion King: Simba's Big Adventure*** - 🎲 Not tested
 
-- ***Disney's The Little Mermaid: Ariel's Majestic Journey*** - 🎲 No tested
+- ***Disney's The Little Mermaid: Ariel's Majestic Journey*** - 🎲 Not tested
 
 - ***Disney Winnie the Pooh: The Honey Hunt*** - ✅ Playable
 
-- ***DreamWorks Kung Fu Panda: Path of the Panda*** - 🎲 No tested
+- ***DreamWorks Kung Fu Panda: Path of the Panda*** - 🎲 Not tested
 
-- ***DreamWorks Monsters vs Aliens*** - 🎲 No tested
+- ***DreamWorks Monsters vs Aliens*** - 🎲 Not tested
 
 - ***DreamWorks Shrek: Dragon's Tale*** - ✅ Playable
 
-- ***DreamWorks Shrek: Forever After*** - 🎲 No tested
+- ***DreamWorks Shrek: Forever After*** - 🎲 Not tested
 
-- ***DreamWorks Shrek the Third: Arthur's School Day Adventure*** - 🎲 No tested
+- ***DreamWorks Shrek the Third: Arthur's School Day Adventure*** - 🎲 Not tested
 
-- ***Handy Manny*** - 🎲 No tested
+- ***Handy Manny*** - 🎲 Not tested
 
-- ***Learnin' Wheels*** - 🎲 No tested
+- ***Learnin' Wheels*** - 🎲 Not tested
 
-- ***Lil' Bratz: Friends, Fashion and Fun*** - 🎲 No tested
+- ***Lil' Bratz: Friends, Fashion and Fun*** - 🎲 Not tested
 
-- ***Marvel Spider-Man & Friends: Secret Missions*** - 🎲 No tested
+- ***Marvel Spider-Man & Friends: Secret Missions*** - 🎲 Not tested
 
-- ***NASCAR Academy: Race Car Superstar*** - 🎲 No tested
+- ***NASCAR Academy: Race Car Superstar*** - 🎲 Not tested
 
-- ***Nickelodeon Ni Hao, Kai-Lan: Happy Chinese New Year!*** - 🎲 No tested
+- ***Nickelodeon Ni Hao, Kai-Lan: Happy Chinese New Year!*** - 🎲 Not tested
 
 - ***Nickelodeon SpongeBob SquarePants: A Day in the Life of a Sponge*** - ✅ Playable
 
-- ***Nickelodeon Wonder Pets! Save the Animals!*** - 🎲 No tested
+- ***Nickelodeon Wonder Pets! Save the Animals!*** - 🎲 Not tested
 
-- ***Nick Jr Blue's Clues: Collection Day*** - 🎲 No tested
+- ***Nick Jr Blue's Clues: Collection Day*** - 🎲 Not tested
 
-- ***Nick Jr Dora the Explorer: Dora's Fix-it Adventure*** - 🎲 No tested
+- ***Nick Jr Dora the Explorer: Dora's Fix-it Adventure*** - 🎲 Not tested
 
-- ***Nick Jr Go Diego Go! Save the Animal Families!*** - 🎲 No tested
+- ***Nick Jr Go Diego Go! Save the Animal Families!*** - 🎲 Not tested
 
-- ***Nick Jr The Backyardigans: Viking Voyage*** - 🎲 No tested
+- ***Nick Jr The Backyardigans: Viking Voyage*** - 🎲 Not tested
 
-- ***Nick Jr. Wow! Wow! Wubbzy!*** - 🎲 No tested
+- ***Nick Jr. Wow! Wow! Wubbzy!*** - 🎲 Not tested
 
-- ***Noddy: Detective for a Day*** - 🎲 No tested
+- ***Noddy: Detective for a Day*** - 🎲 Not tested
 
-- ***Scooby-Doo! A Night of Fright is no Delight*** - 🎲 No tested
+- ***Scooby-Doo! A Night of Fright is no Delight*** - 🎲 Not tested
 
 - ***Scooby-Doo! Funland Frenzy*** - ✅ Playable
 
 - ***Sesame Street: Elmo's World: Elmo's Big Discoveries*** - ✅ Playable
 
-- ***Superman: The Greatest Hero*** - 🎲 No tested
+- ***Superman: The Greatest Hero*** - 🎲 Not tested
 
-- ***The Adventures of Little Red Riding Hood*** - 🎲 No tested
+- ***The Adventures of Little Red Riding Hood*** - 🎲 Not tested
 
-- ***The Batman: Gotham City Rescue*** - 🎲 No tested
+- ***The Batman: Gotham City Rescue*** - 🎲 Not tested
 
-- ***The Wiggles: It's Wiggle Time!*** - 🎲 No tested
+- ***The Wiggles: It's Wiggle Time!*** - 🎲 Not tested
 
-- ***Thomas & Friends: Engines Working Together*** - 🎲 No tested
+- ***Thomas & Friends: Engines Working Together*** - 🎲 Not tested
 
 - ***V.Smile: Art Studio*** - 👣 Boot
 
 - ***V.Smile: PC Pal Island*** - 💥 Nothing
 
-- ***V.Smile: Soccer Challenge*** - 🎲 No tested
+- ***V.Smile: Soccer Challenge*** - 🎲 Not tested
 
-- ***Zayzoo: An Earth Adventure*** - 🎲 No tested
+- ***Zayzoo: An Earth Adventure*** - 🎲 Not tested
 
-- ***Zayzoo: My Alien Classmate*** - 🎲 No tested
+- ***Zayzoo: My Alien Classmate*** - 🎲 Not tested
 
-### Accesories:
+
+### Accessories:
+- ***V.Smile Art Studio*** - ❌ Not supported
+
+- ***V.Smile Jammin' Gym Class*** - ❌ Not supported
+
 - ***V.Smile Joystick*** - ✅ Supported
+
+- ***V.Smile PC Pal*** - ❌ Not supported
 
 - ***V.Smile Smartbook*** - ❌ Not supported
 
 - ***V.Smile Smart Keyboard*** - ❌ Not supported
 
-- ***V.Smile Jammin' Gym Class*** - ❌ Not supported
-
 - ***V.Smile V.Link*** - ❌ Not supported
-
-- ***V.Smile Art Studio*** - ❌ Not supoorted
-
-- ***V.Smile PC Pal*** - ❌ Not supported
 
 
 ## 🎮 V.Flash / V.Smile Pro
