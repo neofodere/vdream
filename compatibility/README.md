@@ -102,7 +102,7 @@
 
 - ***Marvel Spider-Man & Friends: Secret Missions*** - 💥 Nothing
 
-- ***NASCAR Academy: Race Car Superstar*** - 👣 Boot
+- ***NASCAR Academy: Race Car Superstar*** - ✅ Playable
 
 - ***Nickelodeon Ni Hao, Kai-Lan: Happy Chinese New Year!*** - ✅ Playable
 
