@@ -13,9 +13,9 @@
 🎲 **Not tested**: The game has not been tested yet; it may work or it may not.
 
 ### Accessories:
-✅ **Supported**: V.Dream emulates the accesory and can be used with the games.
+✅ **Supported**: V.Dream emulates the accessory and can be used with the games.
 
-❌ **Not supported**: V.Dream does not emulate the accesory, or it doesn't emulate it correctly.
+❌ **Not supported**: V.Dream does not emulate the accessory, or it doesn't emulate it correctly.
 
 
 ## 🕹️ V.Smile, V.Smile Pocket, V.Smile Cyber Pocket, V.Smile Motion
