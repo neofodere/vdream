@@ -19,6 +19,7 @@
 
 
 ## 🕹️ V.Smile, V.Smile Pocket, V.Smile Cyber Pocket, V.Smile Motion
+<img src="static.wikia.nocookie.net/vtech9471/images/f/fb/Vsmile-console-gen1.jpg/revision/latest?cb=20200709235805">
 
 ### Games:
 >[!NOTE]
