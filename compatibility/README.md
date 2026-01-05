@@ -2,6 +2,8 @@
 
 
 ## 🧮 Compatibility status types
+
+### Games
 ✅ **Playable:** The game runs normally and can be played without major issues.
 
 👣 **Boot:** The game starts but is not playable or crashes shortly after.
@@ -10,7 +12,15 @@
 
 🎲 **No tested**: The game has not been tested yet; it may work or it may not.
 
-## 🕹️ `V.Smile` / `V.Smile Pocket` / `V.Smile Cyber Pocket` / `V.Smile Motion` Games
+### Accesories
+✅ **Supported**: V.Dream emulates the accesory and can be used with the games.
+
+❌ **Not supported**: V Dream does not emulate the accesory, or it doesn't emulate it correctly.
+
+
+## 🕹️ `V.Smile` / `V.Smile Pocket` / `V.Smile Cyber Pocket` / `V.Smile Motion`
+
+### Games
 >[!NOTE]
 >Games tested: **10/62**
 
@@ -134,10 +144,29 @@
 
 - ***Zayzoo: My Alien Classmate*** - 🎲 No tested
 
+### Accesories
+- V.Smile Joystick - ✅ Supported
+
+- V.Smile Smartbook - ❌ Not supported
+
+- V.Smile Smart Keyboard - ❌ Not supported
+
+- V.Smile Jammin' Gym Class - ❌ Not supported
+
+- V.Smile V.Link - ❌ Not supported
+
+- V.Smile Art Studio - ❌ Not supoorted
+
+- V.Smile PC Pal - ❌ Not supported
+
+
 ## 🎮 `V.Flash / V.Smile Pro` Games
 ***Not supported yet***
 
 ## 🌜 `V.Smile Baby` Games
 ***Not supported yet***
+
+## 🖥️ `V.Smile TV New Generation`
+***V.Dream does not support this system.***
 
 <!-- FODSOFT(TM). Neo Fodere de Frutos. All rights reserved. -->
