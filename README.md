@@ -1,7 +1,7 @@
 # V.Dream
 
 ## 📖 Description
-<img src="images/logo_vdream.png" width="600" height="450"><br>
+<img src="images/logo_vdream.png" width="600" height="450">
 
 >[!NOTE]
 >V.Dream is a long-term project, and it will keep evolving over time. In the future, it aims to emulate the entire V.Smile family.
