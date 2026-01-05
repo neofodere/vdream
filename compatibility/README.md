@@ -162,10 +162,87 @@
 
 
 ## 🎮 V.Flash / V.Smile Pro
-***Not supported yet***
+>[!CAUTION]
+>This platform is not supported yet.
+
+### Games:
+>[!NOTE]
+>Games tested: **0/10**
+
+>✅ Playable games: **0/10**
+
+>👣 Boot games: **0/10**
+
+>💥 Nothing games: **0/10**
+
+- ***Bratz Fashion Pixiez: The Secret Necklace*** - 🎲 Not tested
+
+- ***Cars: In the Fast Lane*** - 🎲 Not tested
+
+- ***Disney Princess: The Crystal Ball Adventure*** - 🎲 Not tested
+
+- ***Multisports*** - 🎲 Not tested
+
+- ***Scooby-Doo! Ancient Adventure*** - 🎲 Not tested
+
+- ***Shrek the Third: The Search for Arthur*** - 🎲 Not tested
+
+- ***SpongeBob SquarePants: Idea Sponge*** - 🎲 Not tested
+
+- ***The Amazing Spider-Man: Countdown to Doom*** - 🎲 Not tested
+
+- ***The Incredibles: Mission Incredible*** - 🎲 Not tested
+
+- ***Wacky Race on Jumpin' Bean Island*** - 🎲 Not tested
+
+### Accessories:
+- ***CD Player capacity*** - ❌ Not supported
+
+- ***V.Flash Controller / V.Smile Pro Joystick*** - ❌ Not supported
+
+- ***V.Flash Memory Card / V.Smile Pro Memory Card*** - ❌ Not supported
+
 
 ## 🌜 V.Smile Baby
-***Not supported yet***
+>[!CAUTION]
+>This platform is not supported yet.
+
+### Games:
+>[!NOTE]
+>Games tested: **0/12**
+
+>✅ Playable games: **0/12**
+
+>👣 Boot games: **0/12**
+
+>💥 Nothing games: **0/12**
+
+- ***A Day On The Farm*** - 🎲 Not tested
+
+- ***Baby Einstein: World of Discoveries*** - 🎲 Not tested
+
+- ***Bailey Goes to Town*** - 🎲 Not tested
+
+- ***Barney: Let's Go To A Party*** - 🎲 Not tested
+
+- ***Care Bears Care-A-Lot Park*** - 🎲 Not tested
+
+- ***Discovery With Baby Mickey & Friends*** - 🎲 Not tested
+
+- ***Learn & Discover Home*** - 🎲 Not tested
+
+- ***Mother Goose*** - 🎲 Not tested
+
+- ***Noah's Ark Animal Adventure*** - 🎲 Not tested
+
+- ***Pooh's Hundred Acre Wood Adventure*** - 🎲 Not tested
+
+- ***The Backyardigans: Big Backyard Adventure*** - 🎲 Not tested
+
+- ***Time For Teletubbies*** - 🎲 Not tested
+
+### Accessories:
+
 
 ## 🖥️ V.Smile TV New Generation
 ***V.Dream does not support this system.***
