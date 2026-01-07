@@ -1,4 +1,4 @@
-# 📋 Support options
+# 📋 Support Options
 
 ## 📧 Via email
 - ***contact@fodsoft.com***: For general inquiries.
