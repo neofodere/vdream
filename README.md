@@ -1,7 +1,7 @@
 # V.Dream
 
 ## 📖 Description
-<img src="images/logo_vdream.png" width="600" height="450">
+<img src="images/logo_vdream.png" width="600" height="auto">
 
 >[!NOTE]
 >V.Dream is a long-term project, and it will keep evolving over time. In the future, it aims to emulate the entire V.Smile family.
@@ -33,18 +33,18 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 
 2. Or download and extract the **vdream_portable_{architecture}.7z** file and run **vdream.exe**.
 
-3. Open V.Dream and press the center button to select a folder, or go to `System -> Select folder`.<br> <img src="images/vdream_tuto_01.png" width="432" height="328">
+3. Open V.Dream and press the center button to select a folder, or go to `System -> Select folder`.<br> <img src="images/vdream_tuto_01.png" width="432" height="auto">
 
-4. Or go to `System -> Run cartridge` to launch a game directly.<br> <img src="images/vdream_tuto_02.png" width="432" height="328">
+4. Or go to `System -> Run cartridge` to launch a game directly.<br> <img src="images/vdream_tuto_02.png" width="432" height="auto">
 
 >[!TIP]
 >If V.Dream does not recognize a ROM as valid and you are sure it is valid and not corrupted, try signing the ROM with my script `scripts/INSERT_SIGN.PS1`. This script inserts the VTech signature into an empty space in the ROM so that the emulator can detect it. To use the script, follow the instructions in the README file inside the `scripts/` folder in the project's GitHub.
 
-5. Now you can play, but some games require an official BIOS file. To import it, go to `Settings -> Paths -> BIOS -> Select BIOS`, or try to launch a game that requires a BIOS file and press `Import BIOS`.<br> <img src="images/vdream_tuto_03.png" width="432" height="328">
+5. Now you can play, but some games require an official BIOS file. To import it, go to `Settings -> Paths -> BIOS -> Select BIOS`, or try to launch a game that requires a BIOS file and press `Import BIOS`.<br> <img src="images/vdream_tuto_03.png" width="432" height="auto">
 
-6. If you want a smoother output image, change the setting from `Settings -> Graphics -> Image mode -> Smoothing (Linear)`.<br> <img src="images/vdream_tuto_04.png" width="423.5" height="310.5">
+6. If you want a smoother output image, change the setting from `Settings -> Graphics -> Image mode -> Smoothing (Linear)`.<br> <img src="images/vdream_tuto_04.png" width="423.5" height="auto">
 
-7. You can switch the game menu mode between a vertical list view and a customizable cover view from `View -> Covers` and `View -> List`.<br> <img src="images/vdream_tuto_05.png" width="421" height="187.5">
+7. You can switch the game menu mode between a vertical list view and a customizable cover view from `View -> Covers` and `View -> List`.<br> <img src="images/vdream_tuto_05.png" width="421" height="auto">
 
 ## 🕹️ Game Controls
 | Keyboard             | V.Smile          |
@@ -73,15 +73,15 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 | [.]                  | Load state       |
 
 ## 📸 Screenshots
-<img src="images/vdream_screenshot_01.png" width="512" height="288">
-<img src="images/vdream_screenshot_02.png" width="512" height="288">
-<img src="images/vdream_screenshot_03.png" width="512" height="288">
-<img src="images/vdream_screenshot_04.png" width="512" height="288">
+<img src="images/vdream_screenshot_01.png" width="512" height="auto">
+<img src="images/vdream_screenshot_02.png" width="512" height="auto">
+<img src="images/vdream_screenshot_03.png" width="512" height="auto">
+<img src="images/vdream_screenshot_04.png" width="512" height="auto">
 
 ## 🖼️ Gameplay GIFs
 
-<img src="images/vdream_gif_01.webp" width="512" height="288">
-<img src="images/vdream_gif_02.webp" width="512" height="288">
+<img src="images/vdream_gif_01.webp" width="512" height="auto">
+<img src="images/vdream_gif_02.webp" width="512" height="auto">
 
 ## 📁 V.Dream folder structure
 `\saves`: Folder with your game savestates.
