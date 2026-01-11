@@ -21,6 +21,8 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 ### 🧭 `Other download options`
 [Download from Uptodown](https://v-dream.en.uptodown.com/windows)
 
+[Download from Softpedia] (https://www.softpedia.com/get/System/Virtualization-Emulation/V-Dream.shtml)
+
 [Download from Itch](https://fodsoft.itch.io/vdream)
 
 [Download from SourceForge](https://sourceforge.net/projects/v-dream/files/)
