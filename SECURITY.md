@@ -2,7 +2,7 @@
 Any vulnerability found in V.Dream can be sent to ***support@fodsoft.com***.
 
 >[!CAUTION]
->Please do **NOT open a GitHub issue if you found a vulnerability**. Doing so would publicy disclose the vulnerability and could enable attackers to exploit it.
+>Please do **NOT open a GitHub issue if you found a vulnerability**. Doing so would publicly disclose the vulnerability and could enable attackers to exploit it.
 
 ## 📢 Guidelines
 Please follow these guidelines when reporting a vulnerability, if possible:
