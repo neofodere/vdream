@@ -51,6 +51,9 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 7. You can switch the game menu mode between a vertical list view and a customizable cover view from `View -> Covers` and `View -> List`.<br> <img src="images/vdream_tuto_05.png" width="421" height="auto">
 
 ## 🕹️ Game Controls
+>[!CAUTION]
+>In AZERTY keyboard the mapping is different, please check it [there](https://github.com/neofodere/vdream/blob/main/docs/vdream_controls.txt)
+
 | Keyboard             | V.Smile          |
 |----------------------|------------------|
 | [W], [↑]             | ⬆️ Move up       |
