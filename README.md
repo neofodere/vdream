@@ -52,7 +52,7 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 
 ## 🕹️ Game Controls
 >[!CAUTION]
->In AZERTY keyboard the mapping is different, please check it [there](https://github.com/neofodere/vdream/blob/main/docs/vdream_controls.txt)
+>On French (AZERTY keyboard) the mapping is different, please check it [here](https://github.com/neofodere/vdream/blob/main/docs/vdream_controls.txt).
 
 | Keyboard             | V.Smile          |
 |----------------------|------------------|
