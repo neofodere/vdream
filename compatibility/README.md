@@ -20,7 +20,7 @@
 ❌ **Not supported**: V.Dream does not emulate the accessory, or it doesn't emulate it correctly.
 
 
-## 🕹️ V.Smile, V.Smile Pocket, V.Smile Cyber Pocket, V.Smile Motion
+## <img src="https://gamesdb-images.launchbox.gg/r2_efc6a42e-0ae6-4f54-9765-eaf95fa49c04.png" width="48" height="auto"> V.Smile, V.Smile Pocket, V.Smile Cyber Pocket, V.Smile Motion
 <img src="https://static.wikia.nocookie.net/vtech9471/images/f/fb/Vsmile-console-gen1.jpg/">
 
 ### Games:
@@ -42,13 +42,13 @@
 
 - ***Action Mania*** - ✅ Playable
 
-- <img src="https://gamesdb-images.launchbox.gg/r2_efc6a42e-0ae6-4f54-9765-eaf95fa49c04.png" width="48" height="auto"> ***Alphabet Park Adventure*** - ✅ Playable
+- ***Alphabet Park Adventure*** - ✅ Playable
 
 - ***Barney: The Land of Make Believe*** - ✅ Playable
 
 - ***Bert & Ernie's Imagination Adventure*** - ✅ Playable
 
-- <img src="https://gamesdb-images.launchbox.gg/r2_c2511666-29ab-4dc6-af93-b996f107868e.png" width="48" height="auto"> ***Bob the Builder: Bob's Busy Day*** - ✅ Playable
+- ***Bob the Builder: Bob's Busy Day*** - ✅ Playable
 
 - ***Care Bears: A Lesson in Caring*** - ✅ Playable
 
