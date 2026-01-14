@@ -214,13 +214,12 @@
 - ***V.Flash Memory Card / V.Smile Pro Memory Card*** - ❌ Not supported
 
 
-## 🌜 V.Smile Baby
-<img src="https://static.wikia.nocookie.net/vtech9471/images/4/43/VSmilebaby-console.jpg/" width="340" height="auto">
+## <img src="https://static.wikia.nocookie.net/vtech9471/images/4/43/VSmilebaby-console.jpg/" width="64" height="auto"> V.Smile Baby
 
 >[!CAUTION]
 >This platform is not supported yet.
 
-### Games:
+### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShjfy9yDJWp40uhq2KOeA8uUulrsTrNHOXoA&s" width="48" height="auto"> Games:
 >[!NOTE]
 >Games tested: **0/12**
 
