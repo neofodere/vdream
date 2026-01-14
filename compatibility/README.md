@@ -154,7 +154,7 @@
 - ***Zayzoo: My Alien Classmate*** - ✅ Playable
 
 
-### <img src="https://gamesdb-images.launchbox.gg/r2_efc6a42e-0ae6-4f54-9765-eaf95fa49c04.png" width="48" height="auto"> Accessories:
+### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShjfy9yDJWp40uhq2KOeA8uUulrsTrNHOXoA&s" width="48" height="auto"> Accessories:
 - ***V.Smile Art Studio*** - ❌ Not supported
 
 - ***V.Smile Jammin' Gym Class*** - ❌ Not supported
@@ -219,7 +219,7 @@
 >[!CAUTION]
 >This platform is not supported yet.
 
-### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShjfy9yDJWp40uhq2KOeA8uUulrsTrNHOXoA&s" width="48" height="auto"> Games:
+### Games:
 >[!NOTE]
 >Games tested: **0/12**
 
