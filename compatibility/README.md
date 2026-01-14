@@ -42,13 +42,13 @@
 
 - ***Action Mania*** - ✅ Playable
 
-- ***Alphabet Park Adventure*** - ✅ Playable
+- <img src="https://gamesdb-images.launchbox.gg/r2_efc6a42e-0ae6-4f54-9765-eaf95fa49c04.png" width="32" height=auto"> ***Alphabet Park Adventure*** - ✅ Playable
 
 - ***Barney: The Land of Make Believe*** - ✅ Playable
 
 - ***Bert & Ernie's Imagination Adventure*** - ✅ Playable
 
-- ***Bob the Builder: Bob's Busy Day*** - ✅ Playable
+- <img src="https://gamesdb-images.launchbox.gg/r2_c2511666-29ab-4dc6-af93-b996f107868e.png"> ***Bob the Builder: Bob's Busy Day*** - ✅ Playable
 
 - ***Care Bears: A Lesson in Caring*** - ✅ Playable
 
