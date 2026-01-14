@@ -48,7 +48,7 @@
 
 - ***Bert & Ernie's Imagination Adventure*** - ✅ Playable
 
-- <img src="https://gamesdb-images.launchbox.gg/r2_c2511666-29ab-4dc6-af93-b996f107868e.png"> ***Bob the Builder: Bob's Busy Day*** - ✅ Playable
+- <img src="https://gamesdb-images.launchbox.gg/r2_c2511666-29ab-4dc6-af93-b996f107868e.png" width="32" height=auto"> ***Bob the Builder: Bob's Busy Day*** - ✅ Playable
 
 - ***Care Bears: A Lesson in Caring*** - ✅ Playable
 
