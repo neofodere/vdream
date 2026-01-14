@@ -258,9 +258,6 @@
 - ***V.Smile Baby Activity Panel*** - ❌ Not supported
 
 
-## 🖥️ V.Smile TV New Generation
-***V.Dream does not support this system.***
-
 **The images shown in this README are for informational purposes only. They depict VTech®-owned consoles and games.**
 
 **© 2026 FODSOFT™. Néo Foderé de Frutos. All rights reserved.**
