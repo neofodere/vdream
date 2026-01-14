@@ -20,9 +20,9 @@
 ❌ **Not supported**: V.Dream does not emulate the accessory, or it doesn't emulate it correctly.
 
 
-## <img src="https://static.wikia.nocookie.net/vtech9471/images/f/fb/Vsmile-console-gen1.jpg/" width="48" height="auto"> V.Smile, V.Smile Pocket, V.Smile Cyber Pocket, V.Smile Motion
+## <img src="https://static.wikia.nocookie.net/vtech9471/images/f/fb/Vsmile-console-gen1.jpg/" width="64" height="auto"> V.Smile, V.Smile Pocket, V.Smile Cyber Pocket, V.Smile Motion
 
-### <img src="https://gamesdb-images.launchbox.gg/r2_efc6a42e-0ae6-4f54-9765-eaf95fa49c04.png" width="48" height="auto"> Games:
+### <img src="https://gamesdb-images.launchbox.gg/r2_efc6a42e-0ae6-4f54-9765-eaf95fa49c04.png" width="64" height="auto"> Games:
 >[!IMPORTANT]
 >Many games require an original BIOS to run. These tests were performed using the V.Smile v103 BIOS.
 
