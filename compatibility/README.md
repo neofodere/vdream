@@ -261,7 +261,7 @@
 ## 🖥️ V.Smile TV New Generation
 ***V.Dream does not support this system.***
 
-**The images shown in this README are for informational purposes only. They depict VTech®-owned consoles and games and originate from the VTech Wiki on Fandom (vtech.fandom.com).**
+**The images shown in this README are for informational purposes only. They depict VTech®-owned consoles and games.**
 
 **© 2026 FODSOFT™. Néo Foderé de Frutos. All rights reserved.**
 <!-- FODSOFT(TM). Neo Fodere de Frutos. All rights reserved. -->
