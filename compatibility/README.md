@@ -22,7 +22,7 @@
 
 ## <img src="https://static.wikia.nocookie.net/vtech9471/images/f/fb/Vsmile-console-gen1.jpg/" width="64" height="auto"> V.Smile, V.Smile Pocket, V.Smile Cyber Pocket, V.Smile Motion
 
-### <img src="https://gamesdb-images.launchbox.gg/r2_efc6a42e-0ae6-4f54-9765-eaf95fa49c04.png" width="48" height="auto"> Games:
+### Games:
 >[!IMPORTANT]
 >Many games require an original BIOS to run. These tests were performed using the V.Smile v103 BIOS.
 
@@ -154,7 +154,7 @@
 - ***Zayzoo: My Alien Classmate*** - ✅ Playable
 
 
-### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShjfy9yDJWp40uhq2KOeA8uUulrsTrNHOXoA&s" width="48" height="auto"> Accessories:
+### Accessories:
 - ***V.Smile Art Studio*** - ❌ Not supported
 
 - ***V.Smile Jammin' Gym Class*** - ❌ Not supported
