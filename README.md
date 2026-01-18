@@ -1,4 +1,4 @@
-# <img src="images/icono_vdream.png" width="32" height="auto"> **V.Dream**
+# <img src="images/icono_vdream.png" width="32" height="auto"> V.Dream
 
 ## 📖 Description
 <img src="images/logo_vdream.png" width="600" height="auto">
