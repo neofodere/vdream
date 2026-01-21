@@ -1,5 +1,5 @@
 # ⌛ V.Dream Official Releases
-![](../images/logo_vdream_alt.png)
+<img src="https://resources.fodsoft.com/images/png/logo_vdream_b.png">
 
 >[!IMPORTANT]
 >Keep in mind that issues found in a specific version will almost always affect previous versions as well.
