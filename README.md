@@ -27,7 +27,7 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 
 - [Download from SourceForge](https://sourceforge.net/projects/v-dream/files/)
 
-## <img src="images/icono_vdream_core.png" width="32" height="auto"> Installation and Setup guide
+## <img src="https://resources.fodsoft.com/images/png/icono_vdream_core.png" width="32" height="auto"> Installation and Setup guide
 > [!IMPORTANT]
 >🧩 ***First, download and install the .NET Desktop Runtime 8.0 or later from the Microsoft website if you don’t already have it.***
 
