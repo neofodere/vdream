@@ -1,7 +1,7 @@
 # <img src="https://resources.fodsoft.com/images/png/icono_vdream.png" width="32" height="auto"> V.Dream
 
 ## 📖 Description
-<img src="images/logo_vdream.png" width="600" height="auto">
+<img src="https://resources.fodsoft.com/images/png/logo_vdream_a.png" width="32" height="auto">
 
 >[!NOTE]
 >V.Dream is a long-term project, and it will keep evolving over time. In the future, it aims to emulate the entire V.Smile family.
