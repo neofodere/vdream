@@ -1,7 +1,7 @@
-# <img src="https://resources.fodsoft.com/images/png/icono_vdream.png" width="32" height="auto"> V.Dream
+# <img src="https://resources.fodsoft.com/images/ext/icono_vdream.png" width="32" height="auto"> V.Dream
 
 ## 📖 Description
-<img src="https://resources.fodsoft.com/images/png/logo_vdream_a.png" width="512" height="auto">
+<img src="https://resources.fodsoft.com/images/ext/logo_vdream_a.png" width="512" height="auto">
 
 >[!NOTE]
 >V.Dream is a long-term project, and it will keep evolving over time. In the future, it aims to emulate the entire V.Smile family.
@@ -27,7 +27,7 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 
 - [Download from SourceForge](https://sourceforge.net/projects/v-dream/files/)
 
-## <img src="https://resources.fodsoft.com/images/png/icono_vdream_core.png" width="32" height="auto"> Installation and Setup guide
+## <img src="https://resources.fodsoft.com/images/ext/icono_vdream_core.png" width="32" height="auto"> Installation and Setup guide
 > [!IMPORTANT]
 >🧩 ***First, download and install the .NET Desktop Runtime 8.0 or later from the Microsoft website if you don’t already have it.***
 
