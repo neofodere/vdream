@@ -91,26 +91,23 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 <img src="images/vdream_gif_02.webp" width="512" height="auto">
 
 ## 📁 V.Dream folder structure
-`\saves`: Folder with your game savestates.
+File | Description |
+|----|-------------|
+| **\saves** | Folder with your game savestates. |
+| **\covers** | Folder with your game covers. |
+| **vdream.exe** | The main executable of the emulator. |
+| **vdream_core.exe** | The emulation core executable based on V.Frown. |
+| **`bios.bin** | A copy of the BIOS file you have imported. |
+| **vdream.config** | Configuration file for user preferences. |
+| **vdream_core.config** | Configuration file for internal emulation parameters. |
 
-`\covers`: Folder with your game covers.
-
-`vdream.exe`: The main executable of the emulator.
-
-`vdream_core.exe`: The emulation core executable based on V.Frown.
-
-`bios.bin`: A copy of the BIOS file you have imported.
-
-`vdream.config`: Configuration file for user preferences.
-
-`vdream_core.config`: Configuration file for internal emulation parameters.
 
 ### 📦 Files created by the installer
-`V.Dream.lnk`: The V.Dream shortcut that points to **vdream.exe**.
-
-`unins000.exe`: The V.Dream uninstaller.
-
-`unins000.dat`: Data file used by the uninstaller to track installed files.
+File | Description |
+|----|-------------|
+| **V.Dream.lnk** | The V.Dream shortcut that points to **vdream.exe**. |
+| **unins000.exe** | The V.Dream uninstaller. |
+| **unins000.dat** | Data file used by the uninstaller to track installed files. |
 
 ## 🌍 Supported languages
 - 🇺🇸 English - ✅ 100% (Completed)
