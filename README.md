@@ -96,7 +96,7 @@ File | Description |
 | **\covers** | Folder with your game covers. |
 | **vdream.exe** | The main executable of the emulator. |
 | **vdream_core.exe** | The emulation core executable based on V.Frown. |
-| **`bios.bin** | A copy of the BIOS file you have imported. |
+| **bios.bin** | A copy of the BIOS file you have imported. |
 | **vdream.config** | Configuration file for user preferences. |
 | **vdream_core.config** | Configuration file for internal emulation parameters. |
 
