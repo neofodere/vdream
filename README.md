@@ -98,7 +98,7 @@ This package allows .NET applications to work with 7z archives. As a result, you
 
 To compress files into 7z, make sure you have [7‑Zip](https://www.7-zip.org/) installed.
 
-<img src="images/vdream_screenshot_7z.png" width="256" height="auto">
+<img src="images/vdream_screenshot_7z.png" width="512" height="auto">
 
 ## 📁 V.Dream folder structure
 File | Description |
