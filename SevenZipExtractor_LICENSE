@@ -1,4 +1,4 @@
-<== As of version v1.4 and onward, V.Dream incorporates SevenZipExtractor, a NuGet library developed by Alexander Selishchev (adoconnection), to enable support for handling 7z archive files. ==>
+<== As of version v1.4 and onward, V.Dream incorporates SevenZipExtractor, a NuGet library developed by Alexander Selishchev (adoconnection) and other contributors, to enable support for handling 7z archive files. ==>
 
 MIT License
 
