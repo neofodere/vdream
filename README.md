@@ -6,7 +6,7 @@
 >[!NOTE]
 >V.Dream is a long-term project, and it will keep evolving over time. In the future, it aims to emulate the entire V.Smile family.
 
-V.Dream is a V.Smile emulator developed by **Néo Foderé de Frutos** under the **FODSOFT™** brand and written in `C`, `C#`, and `XAML`. The V.Dream's V.Smile core is based on V.Frown, an emulator originally developed by **Ian (Schnert0)** and other contributors.
+V.Dream is a V.Smile emulator developed by [**Néo Foderé de Frutos**](https://github.com/neofodere) under the <img src="https://resources.fodsoft.com/images/ext/logo_fodsoft_b1.png" width="24" height=auto">[**FODSOFT™**](https://fodsoft.com) brand and written in `C`, `C#`, and `XAML`. The V.Dream's V.Smile core is based on [**V.Frown**](https://github.com/Schnert0/VFrown), an emulator originally developed by [**Ian (Schnert0)**](https://github.com/Schnert0) and other contributors.
 
 With V.Dream, you can play and relive the games from your childhood or discover them for the first time, develop your own software with instructions for the emulated hardware, among other features. It should be noted that neither FODSOFT™ nor V.Dream provide ROMs or any other means that facilitate piracy; the only thing FODSOFT™ offers is software that simulates the hardware of that era so the games can run on modern devices.
 
@@ -89,8 +89,14 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 <img src="images/vdream_gif_01.webp" width="512" height="auto">
 <img src="images/vdream_gif_02.webp" width="512" height="auto">
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/7ziplogo.svg/250px-7ziplogo.svg.png" width="24" height="auto"> 7z files compatibility
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/7ziplogo.svg/250px-7ziplogo.svg.png" width="32" height="auto"> 7z files compatibility
+Starting with V.Dream v1.4, you’ll be able to play and store your games in the **7z format**.
 
+This is made possible thanks to [**SevenZipExtractor**](https://github.com/adoconnection/SevenZipExtractor), a NuGet package developed by [***Alexander Selishchev (adoconnection)***](https://github.com/adoconnection) and other contributors.
+
+This package allows .NET applications to work with 7z archives. As a result, you can save a lot more space when storing your entire V.Smile library. I’ve also made this change with the future in mind, for when V.Dream becomes compatible with V.Smile Baby and V.Flash / V.Smile Pro.
+
+To compress files into 7z, make sure you have [7‑Zip](https://www.7-zip.org/) installed.
 
 ## 📁 V.Dream folder structure
 File | Description |
