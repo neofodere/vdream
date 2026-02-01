@@ -90,7 +90,7 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 <img src="images/vdream_gif_02.webp" width="512" height="auto">
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/7ziplogo.svg/250px-7ziplogo.svg.png" width="32" height="auto"> 7z files compatibility
-Starting with V.Dream v1.4, you’ll be able to play and store your games in the **7z format**.
+Starting with **V.Dream v1.4**, you’ll be able to play and store your games in the **7z format**.
 
 This is made possible thanks to [**SevenZipExtractor**](https://github.com/adoconnection/SevenZipExtractor), a NuGet package developed by [***Alexander Selishchev (adoconnection)***](https://github.com/adoconnection) and other contributors.
 
