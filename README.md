@@ -94,6 +94,9 @@ Starting with V.Dream v1.4, you’ll be able to play and store your games in the
 
 This is made possible thanks to [**SevenZipExtractor**](https://github.com/adoconnection/SevenZipExtractor), a NuGet package developed by [***Alexander Selishchev (adoconnection)***](https://github.com/adoconnection) and other contributors.
 
+>[!IMPORTANT]
+>I took care of updating the 7z.dll  files bundled with the SevenZipExtractor package to version 25.01 to fix the CVEs present in the version it originally included 😉
+
 This package allows .NET applications to work with 7z archives. As a result, you can save a lot more space when storing your entire V.Smile library. I’ve also made this change with the future in mind, for when V.Dream becomes compatible with V.Smile Baby and V.Flash / V.Smile Pro.
 
 To compress files into 7z, make sure you have [7‑Zip](https://www.7-zip.org/) installed.
