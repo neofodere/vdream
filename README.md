@@ -99,7 +99,7 @@ This is made possible thanks to [**SevenZipExtractor**](https://github.com/adoco
 
 This package allows .NET applications to work with 7z archives. As a result, you can save a lot more space when storing your entire V.Smile library. I’ve also made this change with the future in mind, for when V.Dream becomes compatible with V.Smile Baby and V.Flash / V.Smile Pro.
 
-To compress files into 7z, make sure you have [7‑Zip](https://www.7-zip.org/) installed.
+To compress your games into 7z, make sure you have [7‑Zip](https://www.7-zip.org/) installed.
 
 <img src="images/vdream_screenshot_7z.png" width="655" height="auto">
 
