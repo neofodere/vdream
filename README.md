@@ -103,7 +103,7 @@ To compress your games into 7z, make sure you have [7‑Zip](https://www.7-zip.o
 
 <img src="images/vdream_screenshot_7z.png" width="655" height="auto">
 
-## 📁 V.Dream folder structure
+## 🗂️ V.Dream folder structure
 File | Description |
 |----|-------------|
 | **\saves** | Folder with your game savestates. |
