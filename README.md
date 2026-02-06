@@ -125,11 +125,11 @@ File | Description |
 | **unins000.dat** | Data file used by the uninstaller to track installed files. |
 
 ## 🌍 Supported languages
-- 🇺🇸 English - ✅ 100% (Completed)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="32" height="auto"> English - ✅ 100% (Completed)
 
-- 🇪🇸 Spanish - ✅ 100% (Completed)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/3840px-Flag_of_Spain.svg.png" width="32" height="auto"> Spanish - ✅ 100% (Completed)
 
-- 🇫🇷 French - ✅ 100% (Completed)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/330px-Flag_of_France.svg.png" width="32" height="auto"> French - ✅ 100% (Completed)
 
 ## 📒 Planned features
 
