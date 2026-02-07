@@ -58,10 +58,10 @@ Are you looking for [older versions](https://resources.fodsoft.com/downloads/vdr
 
 | Keyboard             | V.Smile          |
 |----------------------|------------------|
-| [W], [↑]             | ⬆️ Move up       |
-| [A], [←]             | ⬅️ Move left     |
-| [S], [↓]             | ⬇️ Move down     |
-| [D], [→]             | ➡️ Move right    |
+| [W], [&uarr;]         | ⬆️ Move up       |
+| [A], [&larr;]        | ⬅️ Move left     |
+| [S], [&darr;]        | ⬇️ Move down     |
+| [D], [&rarr;]        | ➡️ Move right    |
 | [Space]              | ✔️ ENTER / OK    |
 | [Z]                  | 🔴 Red           |
 | [X]                  | 🟡 Yellow        |
