@@ -91,17 +91,17 @@ Are you looking for [older versions](https://resources.fodsoft.com/downloads/vdr
 <img src="images/vdream_gif_01.webp" width="512" height="auto">
 <img src="images/vdream_gif_02.webp" width="512" height="auto">
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/7ziplogo.svg/250px-7ziplogo.svg.png" width="32" height="auto"> 7z files compatibility
-Starting with **V.Dream v1.4**, you’ll be able to play and store your games in the **7z format**.
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/7ziplogo.svg/250px-7ziplogo.svg.png" width="32" height="auto"> 7z, ZIP and RAR files compatibility
+Starting with **V.Dream v1.4**, you’ll be able to play and store your games in the **7z, ZIP and RAR** formats.
 
 This is made possible thanks to [**SevenZipExtractor**](https://github.com/adoconnection/SevenZipExtractor), a NuGet package developed by [***Alexander Selishchev (adoconnection)***](https://github.com/adoconnection) and other contributors.
 
 >[!IMPORTANT]
->I took care of updating the **7z.dll files (x64) and (x86)** bundled with the SevenZipExtractor package to version **25.01** to fix the CVEs present in the version it originally included 😉.
+>I took care of updating the bundled 7z.dll files (x64 and x86) from the SevenZipExtractor package to version 25.01 to fix the CVEs present in the original version 😉. The ARM64 7z DLL — which is not included in SevenZipExtractor — has also been updated to 25.01.
 
-This package allows .NET applications to work with 7z archives. As a result, you can save a lot more space when storing your entire V.Smile library. I’ve also made this change with the future in mind, for when V.Dream becomes compatible with V.Smile Baby and V.Flash / V.Smile Pro.
+This package allows .NET applications to work with 7z, ZIP and RAR files. As a result, you can save a lot more space when storing your entire V.Smile library. I’ve also made this change with the future in mind, for when V.Dream becomes compatible with V.Smile Baby and V.Flash / V.Smile Pro.
 
-To compress your games into 7z, make sure you have [7‑Zip](https://www.7-zip.org/) installed.
+To compress your games into 7z, ZIP, or RAR, make sure you have [7‑Zip](https://www.7-zip.org/) installed (it's not required for playing already‑compressed games).
 
 <img src="images/vdream_screenshot_7z.png" width="655" height="auto">
 
