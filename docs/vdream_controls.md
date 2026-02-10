@@ -1,0 +1,98 @@
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="32" height="auto"> ENGLISH
+
+### V.DREAM GAME CONTROLS:
+
+Keyboard             | V.Smile
+---------------------|-----------------------
+[W], [↑]             | ⬆️ Move up
+[A], [←]             | ⬅️ Move left
+[S], [↓]             | ⬇️ Move down
+[D], [→]             | ➡️ Move right
+[Space]              | ✔️ ENTER / OK
+[Z]                  | 🔴 Red
+[X]                  | 🟡 Yellow
+[C]                  | 🔵 Blue
+[V]                  | 🟢 Green
+[E]                  | ❔ Help
+[Q]                  | ❌ Exit
+[Enter]              | 🔤 ABC
+
+
+### V.DREAM EMULATION SHORTCUTS:
+
+Keyboard             | Action
+---------------------|-----------------------
+[F]                  | Full screen
+[Esc]                | Stop emulation
+[P]                  | Pause / Resume
+[R]                  | Restart
+[,]                  | Save state
+[.]                  | Load state
+
+
+
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/3840px-Flag_of_Spain.svg.png" width="32" height="auto"> ESPAÑOL
+
+### CONTROLES DEL JUEGO DE V.DREAM:
+
+Teclado              | V.Smile
+---------------------|-----------------------
+[W], [↑]             | ⬆️ Mover arriba
+[A], [←]             | ⬅️ Mover izquierda
+[S], [↓]             | ⬇️ Mover abajo
+[D], [→]             | ➡️ Mover derecha
+[Espacio]            | ✔️ ENTER / OK
+[Z]                  | 🔴 Rojo
+[X]                  | 🟡 Amarillo
+[C]                  | 🔵 Azul
+[V]                  | 🟢 Verde
+[E]                  | ❔ Ayuda
+[Q]                  | ❌ Salir
+[Enter]              | 🔤 ABC
+
+
+### ATAJOS DE EMULACIÓN DE V.DREAM:
+
+Teclado              | Acción
+---------------------|-----------------------
+[F]                  | Pantalla completa
+[Esc]                | Detener ejecución
+[P]                  | Pausar / Reanudar
+[R]                  | Reiniciar
+[,]                  | Guardar estado
+[.]                  | Cargar estado
+
+
+
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/330px-Flag_of_France.svg.png" width="32" height="auto"> FRANÇAIS
+
+### COMMANDES DU JEU DU V.DREAM:
+
+Clavier              | V.Smile
+---------------------|-----------------------
+[Z], [↑]             | ⬆️ Monter
+[Q], [←]             | ⬅️ Aller à gauche
+[S], [↓]             | ⬇️ Descendre
+[D], [→]             | ➡️ Aller à droite
+[Espace]             | ✔️ ENTER / OK
+[W]                  | 🔴 Rouge
+[X]                  | 🟡 Jaune
+[V]                  | 🔵 Bleu
+[C]                  | 🟢 Vert
+[E]                  | ❔ Aide
+[A]                  | ❌ Quitter
+[Entrée]             | 🔤 ABC
+
+
+### RACCOURCIS D'ÉMULATION DU V.DREAM:
+
+Clavier              | Action
+---------------------|-----------------------
+[F]                  | Plein écran
+[Échap]              | Arrêter l'exécution
+[P]                  | Pause / Reprise
+[R]                  | Redémarrer
+[,]                  | Sauvegarder l'état
+[.]                  | Charger l'état
+
+FODSOFT(TM). Neo Fodere de Frutos. All rights reserved.
