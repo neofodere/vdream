@@ -1,6 +1,6 @@
 # 📜 V.Dream Scripts
 >[!NOTE]
->***The default V.Dream directory path is:*** `%LOCALAPPDATA%\fodsoft\vdream`
+>***The default V.Dream directory path is:*** `%LOCALAPPDATA%\FODSOFT\V.Dream\{version}\`
 
 >[!TIP]
 >You may need to run PowerShell as an administrator for some scripts to work.
