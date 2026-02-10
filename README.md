@@ -112,10 +112,11 @@ File | Description |
 | **\covers** | Folder with your game covers. |
 | **vdream.exe** | The main executable of the emulator. |
 | **vdream_core.exe** | The emulation core executable based on V.Frown. |
+| **vdream_updater.exe** | The emulator auto-updater. |
 | **bios.bin** | A copy of the BIOS file you have imported. |
 | **vdream.config** | Configuration file for user preferences. |
 | **vdream_core.config** | Configuration file for internal emulation parameters. |
-
+| **7z.dll** | The 7‑Zip 25.01 library for handling compressed files. |
 
 ### 📦 Files created by the installer
 File | Description |
@@ -124,12 +125,20 @@ File | Description |
 | **unins000.exe** | The V.Dream uninstaller. |
 | **unins000.dat** | Data file used by the uninstaller to track installed files. |
 
-## 🌍 Supported languages
+## 🌍 Available languages
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="32" height="auto"> English - ✅ 100% (Completed)
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/3840px-Flag_of_Spain.svg.png" width="32" height="auto"> Spanish - ✅ 100% (Completed)
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/330px-Flag_of_France.svg.png" width="32" height="auto"> French - ✅ 100% (Completed)
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Catalonia.svg" width="32" height="auto"> Catalan - ✅ 100% (Completed)
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/3840px-Flag_of_Italy.svg.png" width="32" height="auto"> Italian - ✅ 100% (Completed)
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" width="32" height="auto"> German - ✅ 100% (Completed)
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png" width="32" height="auto"> Japanese - ✅ 100% (Completed)
 
 ## 📒 Planned features
 
