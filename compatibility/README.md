@@ -1,6 +1,6 @@
 # 🗒️ V.Dream Compatibility List
 >[!NOTE]
->Reference version: **v1.3**
+>Reference version: **v1.4**
 
 
 ## 🧮 Compatibility status types
@@ -32,11 +32,11 @@
 >[!NOTE]
 >Games tested: **62/62**
 
->✅ Playable games: **52/62**
+>✅ Playable games: **55/62**
 
 >👣 Boot games: **2/62**
 
->💥 Nothing games: **8/62**
+>💥 Nothing games: **5/62**
 
 
 - ***Action Mania*** - ✅ Playable
@@ -57,7 +57,7 @@
 
 - ***Disney Mickey Mouse: Clubhouse*** - ✅ Playable
 
-- ***Disney•Pixar Cars 2*** - 💥 Nothing
+- ***Disney•Pixar Cars 2*** - ✅ Playable
 
 - ***Disney•Pixar Cars: Rev It Up in Radiator Springs*** - ✅ Playable
 
@@ -67,7 +67,7 @@
 
 - ***Disney•Pixar Toy Story 2: Operation: Rescue Woody!*** - ✅ Playable
 
-- ***Disney•Pixar Toy Story 3*** - 💥 Nothing
+- ***Disney•Pixar Toy Story 3*** - ✅ Playable
 
 - ***Disney•Pixar Up*** - ✅ Playable
 
@@ -95,7 +95,7 @@
 
 - ***DreamWorks Shrek: Dragon's Tale*** - ✅ Playable
 
-- ***DreamWorks Shrek: Forever After*** - 💥 Nothing
+- ***DreamWorks Shrek: Forever After*** - ✅ Playable
 
 - ***DreamWorks Shrek the Third: Arthur's School Day Adventure*** - ✅ Playable
 
