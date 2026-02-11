@@ -126,31 +126,31 @@ File | Description |
 | **unins000.dat** | Data file used by the uninstaller to track installed files. |
 
 ## 🌍 Available languages
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="32" height="auto"> English - ✅ 100% (Completed)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="32" height="auto"> English
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/3840px-Flag_of_Spain.svg.png" width="32" height="auto"> Spanish - ✅ 100% (Completed)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/3840px-Flag_of_Spain.svg.png" width="32" height="auto"> Spanish
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/330px-Flag_of_France.svg.png" width="32" height="auto"> French - ✅ 100% (Completed)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/330px-Flag_of_France.svg.png" width="32" height="auto"> French
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Catalonia.svg" width="32" height="auto"> Catalan - ✅ 100% (Completed)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Catalonia.svg" width="32" height="auto"> Catalan
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/3840px-Flag_of_Italy.svg.png" width="32" height="auto"> Italian - ✅ 100% (Completed)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/3840px-Flag_of_Italy.svg.png" width="32" height="auto"> Italian
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" width="32" height="auto"> German - ✅ 100% (Completed)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" width="32" height="auto"> German
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png" width="32" height="auto"> Japanese - ✅ 100% (Completed)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png" width="32" height="auto"> Japanese
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png" width="32" height="auto"> Norwegian - ✅ 100% (Completed)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png" width="32" height="auto"> Norwegian
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/3840px-Flag_of_Portugal.svg.png" width="32" height="auto"> Portuguese - ✅ 100% (Completed)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/3840px-Flag_of_Portugal.svg.png" width="32" height="auto"> Portuguese
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" width="32" height="auto"> Dutch - ✅ 100% (Completed)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" width="32" height="auto"> Dutch
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" width="32" height="auto"> Swedish - ✅ 100% (Completed)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" width="32" height="auto"> Swedish
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/1280px-Flag_of_Finland.svg.png" width="32" height="auto"> Finnish - ✅ 100% (Completed)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/1280px-Flag_of_Finland.svg.png" width="32" height="auto"> Finnish
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/1280px-Flag_of_Denmark.svg.png" width="32" height="auto"> Danish - ✅ 100% (Completed)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/1280px-Flag_of_Denmark.svg.png" width="32" height="auto"> Danish
 
 ## 📒 Planned features
 
