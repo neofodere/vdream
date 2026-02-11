@@ -126,6 +126,9 @@ File | Description |
 | **unins000.dat** | Data file used by the uninstaller to track installed files. |
 
 ## 🌍 Available languages
+>[!NOTE]
+>There may be errors in some translations, and I’m willing to correct any that are reported.
+
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="32" height="auto"> English
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/3840px-Flag_of_Spain.svg.png" width="32" height="auto"> Spanish
