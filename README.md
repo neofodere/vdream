@@ -159,13 +159,13 @@ File | Description |
 
 - 🔊 Improved audio
 
-- 💿 Compatibility with V.Flash / V.Smile Pro
+- <img src="https://static.wikia.nocookie.net/vtech9471/images/5/54/Vflash-console.png/" width="24" height="auto"> Compatibility with V.Flash / V.Smile Pro
 
-- 👶 Compatibility with V.Smile Baby
+- <img src="https://static.wikia.nocookie.net/vtech9471/images/4/43/VSmilebaby-console.jpg/" width="24" height="auto"> Compatibility with V.Smile Baby
 
-- 🐧 Linux port
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/330px-Tux.svg.png" width="24" height="auto"> Linux port
 
-- 🤖 Android port
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/960px-Android_robot.svg.png" width="24"> Android port
 
 - ⚙️ More configurable settings
 
