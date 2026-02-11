@@ -91,6 +91,15 @@ Are you looking for [older versions](https://resources.fodsoft.com/downloads/vdr
 <img src="images/vdream_gif_01.webp" width="512" height="auto">
 <img src="images/vdream_gif_02.webp" width="512" height="auto">
 
+## 🖌️ Customize V.Dream to your liking
+You can customize your game library in V.Dream however you like. You can view your games in a list layout or as cover art, with either square or vertical covers. You can also get tons of cover images from the [LaunchBox Database](https://gamesdb.launchbox-app.com/platforms/games/221-vtech-vsmile) if you want.
+
+### Covers mode:
+<img src="images/vdream_covers_snapshot.png" width="512" height="auto">
+
+### List mode:
+<img src="images/vdream_lista_snapshot.png" width="512" height="auto">
+
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/7ziplogo.svg/250px-7ziplogo.svg.png" width="32" height="auto"> 7z, ZIP and RAR files compatibility
 Starting with **V.Dream v1.4**, you’ll be able to play and store your games in the **7z, ZIP and RAR** formats.
 
