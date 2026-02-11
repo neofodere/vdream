@@ -54,7 +54,7 @@ Are you looking for [older versions](https://resources.fodsoft.com/downloads/vdr
 
 ## 🕹️ Game Controls
 >[!CAUTION]
->On French (AZERTY keyboard) the mapping is different, please check it [here](https://github.com/neofodere/vdream/blob/main/docs/vdream_controls.txt).
+>On French (AZERTY keyboard) the mapping is different.
 
 | Keyboard             | V.Smile          |
 |----------------------|------------------|
@@ -140,17 +140,17 @@ File | Description |
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png" width="32" height="auto"> Japanese - ✅ 100% (Completed)
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png" width="32" height="auto"> Norwegian - ❌ 2% (Completed) 
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png" width="32" height="auto"> Norwegian - ✅ 100% (Completed)
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/3840px-Flag_of_Portugal.svg.png" width="32" height="auto"> Portuguese - ❌ 6% (Completed)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/3840px-Flag_of_Portugal.svg.png" width="32" height="auto"> Portuguese - ✅ 100% (Completed)
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" width="32" height="auto"> Dutch - ❌ 1% (Completed)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" width="32" height="auto"> Dutch - ✅ 100% (Completed)
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" width="32" height="auto"> Swedish - ❌ 1% (Completed)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" width="32" height="auto"> Swedish - ✅ 100% (Completed)
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/1280px-Flag_of_Finland.svg.png" width="32" height="auto"> Finnish - ❌ 1% (Completed)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/1280px-Flag_of_Finland.svg.png" width="32" height="auto"> Finnish - ✅ 100% (Completed)
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/1280px-Flag_of_Denmark.svg.png" width="32" height="auto"> Danish - ❌ 1% (Completed)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/1280px-Flag_of_Denmark.svg.png" width="32" height="auto"> Danish - ✅ 100% (Completed)
 
 ## 📒 Planned features
 
