@@ -18,6 +18,8 @@ With V.Dream, you can play and relive the games from your childhood or discover 
 
 - [Download the portable version (x86)](https://resources.fodsoft.com/downloads/vdream/releases/latest/vdream-win-x86-portable)
 
+- [Download the portable version (ARM64)](https://resources.fodsoft.com/downloads/vdream/releases/latest/vdream-win-arm64-portable)
+
 Are you looking for [older versions](https://resources.fodsoft.com/downloads/vdream/releases/)?
 
 ### 🧭 `Other download options`
