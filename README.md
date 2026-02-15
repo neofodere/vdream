@@ -181,6 +181,8 @@ File | Description |
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/960px-Android_robot.svg.png" width="24"> Android port
 
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/RetroAchievements_logo_square_color.png/500px-RetroAchievements_logo_square_color.png" width="24" height="auto"> RetroAchievements integration
+
 - ⚙️ More configurable settings
 
 <hr>
