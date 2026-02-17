@@ -1,6 +1,9 @@
 # 📋 Support Options
 
 ## 📧 Via email
+>[!IMPORTANT]
+>These addresses are for incoming mail only.
+
 - ***contact@fodsoft.com***: For general inquiries.
 
 - ***support@fodsoft.com***: For specific support-related issues.
